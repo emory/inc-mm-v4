@@ -1,12 +1,53 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
+  - title: "@Now"
+    url: /now/
+  - title: "Featured Articles"
+    url: /articles/
+  - title: "I've Been Sad"
+    url: /sad/
+  - title: "Cool Kids"
+    url: /coolkids/
+  - title: "Contact"
+    url: /contact/
+  - title: "Castings"
+    url: /casting/
+  - title: "Terms"
+    url: /terms/
+  - title: "Sitemap"
+    url: /sitemap/
+
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+home:
+  - title: "tail -F"
+    url: /
+  - title: "NOW"
+    url: /now/
+  - title: "Featured Articles"
+    url: /articles/
+    children:
+      - title: "Collection: I've Been Sad"
+        url: /sad/
+  - title: "Resources"
+    children:
+      - title: "So You've Got a Cool Kid"
+        url: /coolkids/
+      - title: "Fujifilm X100F Tips"
+        url: /res/fujifilm-x100f-resources/
+      - title: "Fujifilm X100S Tips"
+        url: /pages/fujifilm-x100s-resources/
+  - title: "Creative"
+    children:
+      - title: "Verse"
+        url: /poems/
+      - title: "Castings"
+        url: /casting/
+  - title: "Collected"
+    url: /collection-archive/

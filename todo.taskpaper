@@ -1,0 +1,34 @@
+The Big Todo
+------------
+
+Migration:
+  - figure out why build/serve fails when my posts are introduced
+  - make my image paths sane
+
+Organization:
+
+	- fix email pub keys and CA cert that signs them. pgp too. (may not be needed anymore)
+	- projects @layout
+		- art
+			- casting
+		- photography
+			- camera hacks
+			- fuji x100s resources
+			- artistic workflow
+				- lightroom stuff
+				- openzfs
+		- household it
+			- gets its own section maybe
+			- backup and restore with arq
+			- storage/nas
+				- openzfs
+			- networking
+			- media services
+		- hackintoshery
+		- other hacks
+	- portfolio or features?
+
+Enhancements:
+
+  - see what mmistakes is doing about responsive images and auto-generation of sizes these days
+

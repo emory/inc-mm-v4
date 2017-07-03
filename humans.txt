@@ -1,0 +1,84 @@
+---
+type: metadata, human-readable
+---
+
+┌─────────────────────────────────────────────────────────────────────────┐ 
+│                                                                         │▓
+│                                                                         │▓
+│    ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____     │▓
+│   ||i |||n |||c |||u |||m |||b |||e |||n |||t |||. |||o |||r |||g ||    │▓
+│   ||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||    │▓
+│   |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|    │▓
+│                                                                         │▓
+│                                                                         │▓
+│                                                                         │▓
+└─────────────────────────────────────────────────────────────────────────┘▓
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+/* INCUMBENT.ORG
+   in which i publish a best-of myself
+      and yet i don't like to talk about my flair */
+
+/* ABOUT */
+                                                
+  Whom:	Emory Lundberg               
+
+  /* SOCIALISM */
+
+  ADN:		@emory                          
+  Twitter:	@incumbent and @remoryl 
+  ello:		@kvetch
+  Facebook:	@incumbent                       
+  Google+:	+EmoryL                         
+  vscogrid:	ephemory <http://vsco.co/ephemory/>
+  
+  /* PUBLISHING */
+
+  Linkblog:	<https://emory.kvet.ch/>
+  Photography:  <https://ephemeral.be/>
+  Podcast: 	<http://show.hellyeah.com/>
+
+  Shit Prudence Says: 	
+  	<http://prudencesays.tumblr.com/>
+                                                
+  /* FROM */
+
+  Location:     Iowa, USA
+	
+    /* Previously */
+
+    Location:	Providence, RI, USA
+    Location:	Washington, DC, USA
+    Location:	Chicago, IL, USA
+
+/* SITE */
+
+  Language:     English
+  Locale:       EN-US
+  Built with:   Jekyll <http://jekyllrb.com>
+                TextMate 2 <http://macromates.com>
+                vim <http://www.vim.org>
+                Adobe Lightroom <https://lightroom.adobe.com>
+                Pixelmator <http://www.pixelmator.com>
+
+/* SITE INHERITANCE */
+   
+  I am not very talented, but I can follow examples, and would like to 
+    honor those who wrote the difficult stuff before I got here.
+
+/* SHOUT-OUTS, SPECIAL THANKS and I-COULDNTVE-DONNIT-WITHOUT-YOUS */
+
+  Big-ups and hollers:
+
+  Michael Rose: <twitter://@mmistakes>, <http://mademistakes.com/> 
+  -----------------------------------------------------------------
+
+  /* Who in turn also thanks at one time (among others): 
+     @include 'mmistakes.humans.txt'                             */
+
+      jQuery <http://jquery.com>                                     
+      HTML5 Boilerplate <http://html5boilerplate.com>
+      Grunt <http://gruntjs.com>                                     
+      Magnific Popup <https://github.com/dimsemenov/Magnific-Popup>   
+      FitVids <http://fitvidsjs.com>                                  
+

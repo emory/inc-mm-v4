@@ -1,0 +1,25 @@
+# Site wide configuration
+
+future : true
+show_drafts : true
+
+# Site owner
+
+owner:
+  google:
+    ad-client: ""
+    ad-slot: ""
+    analytics: ""
+    verify: ""
+  bing:
+    verify: ""
+  alexa:
+    verify: ""
+  yandex:
+    verify: ""
+
+
+# Plugin: jekyll-assets
+
+assets:
+  cache: false

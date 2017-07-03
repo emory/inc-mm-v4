@@ -1,0 +1,74 @@
+---
+layout: single
+status: publish
+title: The Port
+date: 2013-07-21
+last_modified_at: "2017-07-01 18:41:14"
+excerpt: "In which I open a bottle of port as old as I am."
+categories:
+- articles
+tags:
+- drink
+- friends
+header:
+  overlay_image: /assets/images/p/port/port-decant-w.jpg
+  overlay_filter: 0.5
+  teaser: /assets/images/p/port/port-cork-400x300.jpg
+  caption: Photo by Clare MacNab, 2013
+featured: false
+---
+
+When I look back at my career I've worked on some exceptional teams with some exceptional people. There are a lot of nice things I could say about any number of them, but today I want to write about one in particular, polymath and renaissance man; and his name is Bob Antia.
+
+## Working with Bob
+
+Bob not only has a wealth of knowledge and experience in a wide variety of topics; he's an exceptionally gifted mentor and communicator that always been very generous with his time. He's just naturally great at relating to me and honestly I don't know it's always that effortless for him or if he's **just that Good at Me**, but each time I talk to the man I feel like I've learned something and I feel inspired to *Do Something With It*. No small feat! 
+
+I worked with Bob at Guardent building a managed security services offering that was later acquired by VeriSign. The few years I worked with him were among my favorites, and he's one of the few people that has successfully negotiated with Ma Bell and choreographed a *knife-switch* architecture move that involved three separate datacenters. The guy is pro.
+
+## Bob May Know Something About Port
+
+One of the things he's known for is [a rather exceptional collection of port](http://magazine.wsj.com/hunter/great-vintage/call-of-port/). There was a Sunday my wife came into the house after running an errand and asked about him after hearing [a Bob Antia on NPR's The Splendid Table](https://soundcloud.com/thesplendidtable/bob-antia-on-collecting-port) to discuss that very topic; *surely that wasn't the same Bob Antia but how many could there be, right?*
+
+When I emailed him to say she heard him the radio we traded some emails back and forth and I made a mental note of one offer in particular:
+
+> If you find yourself in the Boston area there is always an opportunity for a port tasting!
+
+Port is one of those things I don't really know much of anything about[^1]. My BFF Eric is a big fan though, and the few times I had tried a port it was one he poured me. I thought it would be great to find a time when we were both in Boston and could get a peek through Bob's port collection and also get a chance to introduce two of my favorite people to each other — there is considerable cross-over not only from their love of port but professionally as well.
+
+## Boston Calling
+
+When another long-time friend invited us out to Boston for a June wedding, I finally had a window of opportunity! As close friends and family will no doubt find completely predictable, I had unfortunately waited until too late to let him know I was in town [^excuses], and he happened to be leaving on a trip with his family soon and we couldn't get our schedules ironed out, but he did something equally amazing for me and offered to bring something by that I may enjoy.
+
+<figure>
+  <a href="/assets/images/p/port/port-heybob-400x300.jpg"><img src="/assets/images/p/port/port-heybob-400x300.jpg" alt="hey, bob"></a>
+  <figcaption>Curbside Delivery</figcaption>
+</figure>
+
+	
+Bob soon rolled by with one of his kids riding shotgun and dropped off a bottle of Dow's 1977 vintage port, scolded me for tipping the bottle and drove off into the sunset leaving me with a bottle of port as old as I was. He says a common practice is to survey the people you're sharing a bottle with on which has aged better — I can say with certainty that I'm going with the bottle, but like he says, "there's always next year!"
+
+A couple of nights later my wife and I met up with my BFF Eric and his special lady Clare for dinner at a tapas restaurant in the South End, and I proudly presented the bottle to my friend; not sure when I'd ever get to taste it because I had been informed at length mere hours earlier by an expert in such things that there is some effort that goes into having a bottle of vintage port. You can't just open it up, put it in a paper bag and start sipping; it needs to be decanted for a few hours, and there is sediment in the bottle that needs to be removed (unless you want it in your glass). 
+
+My BFF is resourceful, and clearly very interested in drinking this bottle of port as soon as possible. The next day,  I started getting iMessage photos from Clare that featured their hotel room with a contraption that was, *obviously*, **the new decanter Eric bought at William Sonoma that afternoon.** We weren't sure about all the details yet, but we absolutely drove to the wedding with a decanter full of vintage port between Eric's feet.  
+
+<figure class="third">
+<a href="/assets/images/p/port/port-cork-400x300.jpg"><img src="/assets/images/p/port/port-cork-400x300.jpg" alt="cork"></a>
+<a href="/assets/images/p/port/port-tabletop-400x300.jpg"><img src="/assets/images/p/port/port-tabletop-400x300.jpg" alt="tabletop decanting"></a>
+<a href="/assets/images/p/port/port-decant-400x300.jpg"><img src="/assets/images/p/port/port-decant-400x300.jpg" alt="up close decanter"></a>
+<figcaption>a delightful surprise!</figcaption>
+</figure>
+	
+	
+
+## Lapping Luxury
+
+When we did eventually get to the port it was truly a wonderful experience; my wife said it reminded her of savoring a piece of chocolate and that was a fantastic observation. It was rich, luxurious, spicy and sweet all at once. A hint of licorice, berries, and herbs with the seductive deep plum-like red coloring, it has some weight to it while it's in your mouth. It almost seems to have an unexpected viscosity to it when you feel it on your tongue. 
+
+I was driving us back to the city; so I didn't have more than a glass of it, but the experience of drinking it was a true thrill; ***an exceptional bottle shared with equally exceptional people that I love dearly***. I owe that moment to Bob and his generous heart, as much the friends I shared it with, and hope that I can get that tour through his cellar and continue to learn more about port and anything else he is kind enough to share with me.
+
+:wine_glass:
+
+
+[^1]: I love learning about anything that has nuance and sophistication to it, which is probably a contributing factor to my love of single-malt scotch.
+[^excuses]: For what it's worth I also didn't bother to contact anyone in Boston until I got there and got settled in our apartment we rented for a week because I'm just that horrible!

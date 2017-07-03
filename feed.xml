@@ -1,0 +1,12 @@
+---
+layout: compress
+permalink: /feed.xml
+limit: 15
+sitemap: false
+---
+
+   {% for post in site.posts limit:10 %}
+   {% include feed/entry.xml %}
+   {% endfor %}
+
+</feed>

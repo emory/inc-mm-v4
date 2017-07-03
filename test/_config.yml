@@ -5,19 +5,19 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme                    : "minimal-mistakes-jekyll"
-
 # Site Settings
+theme: "minimal-mistakes-jekyll"
 locale                   : "en"
-title                    : "Minimal Mistakes Development Test Site"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "Minimal Mistakes theme test."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/test"
+title                    : "incumbent"
+title_separator          : "⚯"
+name                     : "Emory Lundberg"
+description              : "essential emory"
+url                      : "https://incumbent.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+# breadcrumbs            : true # true, false (default)
+host                     : 0.0.0.0
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -32,12 +32,12 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -47,7 +47,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : atom.xml # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "mmistakes"
-facebook:
   username               :
+facebook:
+  username               : incumbent
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -79,30 +79,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Emory Lundberg"
+  avatar           : "/assets/images/bio-photo-sea-sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A Renaissance man eagerly awaiting the next Renaissance."
+  location         : "CID, ORD, PHL"
+  email            : emory@hellyeah.com
+  uri              : https://incumbent.org
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : incumbent
   foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
+  github           : emory
+  google_plus      : +EmoryL
+  keybase          : emory
+  instagram        : incumbent
   lastfm           :
   linkedin         :
-  pinterest        :
+  pinterest        : incumbent
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
+  steam            : TobiasIsQueenMary
   tumblr           :
-  twitter          : "mmistakes"
+  twitter          : incumbent
   vine             :
   weibo            :
   xing             :
@@ -137,6 +137,9 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+  - _tmp
 keep_files:
   - .git
   - .svn
@@ -171,14 +174,14 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /post/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -231,19 +234,6 @@ compress_html:
     envs: development
 
 
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -254,36 +244,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _recipes
-  - scope:
-      path: ""
-      type: recipes
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true

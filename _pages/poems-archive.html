@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "You Promised Me Poems"
+permalink: /poems/
+author_profile: false
+header:
+  overlay_color: "#123456"
+---
+
+{% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
+{% for post in site.poems %}
+  {% unless collection.output == false or collection.label == "posts" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html %}
+    {% endunless %}
+{% endfor %}
+

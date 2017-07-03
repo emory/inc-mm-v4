@@ -140,6 +140,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - _tmp
+  - s3_website.yml
 keep_files:
   - .git
   - .svn

@@ -3,14 +3,14 @@ layout: single
 title: "The Terms of our Relationship"
 permalink: /terms/
 date: 2015-05-06
-modified: 2017-05-02
+last_modified_at: 2017-07-03 11:21:50
 excerpt: "Terms & Conditions, No Obligation, Operators are Standing By"
 share: false
 ---
 
 This is my personal homepage with words and documents written and edited by me. Your use of this website, in any and all forms, constitutes an acceptance of these terms and policies. This page is reviewed and revised from time to time.
 
-{% include toc.html %}
+{% include toc %}
 
 All content provided is for informational purposes only. The articles and posts on this website are my own and don't necessarily represent the positions, strategies, or opinions of my employer or its subsidiaries. I make no representations as to the accuracy or completeness of any information found here or by following any links. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.
 
@@ -20,11 +20,13 @@ At this website the privacy of my visitors is extremely important. This Privacy 
 
 First and foremost, I will never share your email address or any other personal information supplied to me to anyone without your direct consent. 
 
-As of 2017-05-02 I have not received a request for any information about readers or visitors to this website from any law enforcement agency or officer of the court.
+As of 2017-07-03 I have not received a request for any information about readers or visitors to this website from any law enforcement agency or officer of the court.
 
 ### Keybase Signed Canary
 
-	BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5wcIkHbs4ZeaZi no1IL2ytL7tf1Sv a2cYx4mqJ9XJ1ES cU7RCK9AWWqbjSK E0kBLAxywqjQ5Oi G1TPHmhdmwUAkaL aM8kbmM5USYVt7C DxoxXeAewTZDadu 37ZVGIr2XI8vWZf 3SacuWeDCkUzIuy u7Kpgd7xggsqld4 h6TkggaMQ8A12Fz QPleA2c2PBlVktA s766n7goCxJGbK8 fT5vmdW81bz62Sa niesZIWcyJ0NETn 7NgP03pYDS1JdYt 4LiDupT8UQG3Zcz QZ4TXlOJcrN44F7 5P0PJtGGLNCfq66 ZmvuejxMgMuZUi5 90BMumRR4OlYo0N 6wejP45pS4BoUFL 1Marn2pEWQGZAf4 aAiivrGn8Jhi7gr dfqg1Mrc4DA8ijw qDLzIReKPa82tZ1 ELZI0nb5pwJFgLD aWX0Y3T2WmMNPe5 kpJfVQ8i2pj23RG aQIIoEEm5jGSf1D 3TL1zRSIi5kIxLs 846y. END KEYBASE SALTPACK SIGNED MESSAGE.
+    BEGIN KEYBASE SALTPACK DETACHED SIGNATURE. kXR7VktZdyH7rvq v5weRa8moJ413jG n2CYXx0DPS2tPSv a2cYx4mqJ9XJ1ES cU7RCK9AWXImthk PUkAFtluEcIB0vB lXMmnvA32ib9X3W lCdtr2yYjoSIX3B 88tPMMdGoX9rXEk 5NBvshd8vZP1TYG zJJTcNLUPikev2L Xk98Tz503p34P42 d. END KEYBASE SALTPACK DETACHED SIGNATURE.
+
+You may download this from my `files` directory, [terms.md.sig](https://incumbent.org/files/terms.md.sig) and the current version of this page is probably in the git repository on Github that I shove code into (`inc-mm-v4`).
 
 ### Log Files
 
@@ -63,12 +65,9 @@ Currently I'm an affiliate for Amazon and Google Adsense.
 
 What this means for you:
 
-* I do not and will not recommend a product just because I'm an affiliate.
-* I became an affiliate to earn some revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
+* I do not and will not recommend a product just because I'm an affiliate. That'd be a stupid way to earn a living anyway.
 * I do not recommend products just for the sake of making money.
-* I recommend products because I think they are valuable to my readers and I like them.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website. I don't exactly have a habit of keeping my opinion to myself and that goes for affiliate links when I think I found a document scanner or fountain pen someone on Twitter would enjoy.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
+* I respect and value my readers, and only write my own genuine and objective opinions and advice.
 
 Just like this website, my Disclosure Policy is a work in progress. I'm trying to define what I think is important but this is not really a tight ship I'm running here. This is my landing pad for web publishing and I don't want to mislead people about anything and I also want to be as accurate as I can without having it consume more time than sharing a link to an app on iTunes or posting an article about photography. If you have any questions about any of this I'd appreciate hearing it because it will help me ensure I am doing the right thing.
 
@@ -76,7 +75,7 @@ Just like this website, my Disclosure Policy is a work in progress. I'm trying t
 
 All original content (e.g. articles, blog posts, rants, raves, and photographs) available on incumbent.org that is attributed to me may be assumed licensed to you under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/).[^licensealt]
 
-[^licensealt]: The code that makes my publishing engine generate pages, do the layout, and user interface elements of the website itself is probabably under a less restrictive license. I don't know how to make that easier to navigate for you at this time, but I based the current version of this website on the public version of a jekyll site project written by Michael Rose for Mademistakes.com. If you want to do something my license won't permit, you can consider anything on my site that is covered by *his* more permissive license to be invalid and I'm not trying to step on his license, I just don't want people distributing altered versions of my work as their own for any reason.
+[^licensealt]: The code that makes my publishing engine generate pages, do the layout, and user interface elements of the website itself is probabably under a less restrictive license. I don't know how to make that easier to navigate for you at this time, but my license applies to content (writing and otherwise) I have created for this website and not the theme kit I use as a ruby gem (minimal-mistakes), and I hope that makes sense.
 
 ### Attribution
 
@@ -84,7 +83,7 @@ My preference for attribution on photographs or content is quite simple:
 
 {% highlight html %}
 {% raw %}
-<a href="http://incumbent.org/">Emory Lundberg</a>, Iowa City (<a href="http://kvet.ch/">blog</a>/<a href="http://photo.kvet.ch/">photography</a>)
+<a href="https://incumbent.org/">Emory Lundberg</a>, Iowa City (<a href="http://emory.kvet.ch/">blog</a>/<a href="https://ephemeral.be/">photography</a>)
 {% endraw %}
 {% endhighlight %}
 
@@ -92,6 +91,6 @@ Alternately you may use this shorter version if you’re into the whole brevity 
 
 {% highlight html %}
 {% raw %}
-<a href="http://incumbent.org/">Emory Lundberg</a>, Iowa City
+<a href="https://incumbent.org/">Emory Lundberg</a>, Iowa City
 {% endraw %}
 {% endhighlight %}

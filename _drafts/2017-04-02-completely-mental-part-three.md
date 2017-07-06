@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: single
 title: "Completely Mental Part III: Divorce"
 subtitle: "In which our hero is dealt a rather categorical setback."
 excerpt: "Take a deep breath and count back from ten."

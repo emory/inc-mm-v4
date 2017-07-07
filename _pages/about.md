@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: //about/index.html
-title: "About"
+title: "a͍̻̝͞b͇̝o̶̦̝̩̖̮̗ù͇̘̦͕t̢̤̠͚͚̳͔͎ ͕̖̟̲͟emòry̱͖̦̘͍̩ͅ"
 description: "an about page"
 category: [meta, emory]
 author_profile: true
@@ -11,11 +11,13 @@ My name is Emory, but I tell Siri that she can call me *big papa*.
 
 ## Brief Bio 
 
-I'm a network security *friengineer* by trade, serial hobbyiest, writer, photographer, practicing min-maxer, and a category-five wisenheimer. 
+I'm a network security *friengineer* by trade; also a serial hobbyiest, writer, photographer, practicing min-maxer, and a category-five wisenheimer. 
 
 I am often carrying a camera and have no indoor voice. 
 
 Going way back in time; I was the founder of hellyeah! networks. Most of this once proud society of slackers and hackers has been swallowed by the cloud, but we're still out there kicking it oldschool. [^1]
+
+{% include toc %}
 
 ## Outputs
 

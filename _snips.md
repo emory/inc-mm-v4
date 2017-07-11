@@ -5,8 +5,18 @@
   rake build && rake build:prod,dev,drafts
   rake push && rake push:aws3   # shove _site/ contents to my s3 bucket
 
+# terminal styled code syntax frag
 
-### include a Table of Contents (TOC)
+> A fun use case for this is styling code blocks to look like terminal windows. Simply use terminal as the language/lexer like so:
+
+    ```terminal
+    
+    ```
+
+And then use css to style it up. see https://mademistakes.com/til/styling-language-specific-code-blocks/
+
+
+## include a Table of Contents (TOC)
 
 {% include toc %}
 

@@ -12,6 +12,7 @@ header:
   overlay_image: /assets/images/skip.jpg
   credit: Emory Lundberg
   teaser: /assets/images/skip-500x500.jpg
+nav: "home"
 ---
 
 # Current Projects 

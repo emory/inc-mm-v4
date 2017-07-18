@@ -70,10 +70,15 @@ $(document).ready(function(){
   });
 
   // Bigfoot @emory footnotes stuff
-  var bigfoot = $.bigfoot(
+  //var bigfoot = $.bigfoot(
   // {
   //   actionOriginalFN: "ignore"
   //   }
-  );
+  //);
+  //
+  // moved bigfoot to scripts.html but this is the part that activates it:
+  // <script type="text/javascript">
+  // $.bigfoot();
+  // </script>
 
 });

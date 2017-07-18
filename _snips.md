@@ -15,6 +15,12 @@
 
 And then use css to style it up. see https://mademistakes.com/til/styling-language-specific-code-blocks/
 
+## adding javascript stuff
+
+> To modify or add your own scripts include them in [`assets/js/_main.js`](https://github.com/mmistakes/minimal-mistakes/blob/master/assets/js/_main.js) and then rebuild using `npm run build:js`. See below for more details.
+> 
+> If you add additional scripts to `assets/js/plugins/` and would like them concatenated with the others, be sure to update the `uglify` script in [`package.json`](https://github.com/mmistakes/minimal-mistakes/blob/master/package.json). Same goes for scripts that you remove.
+
 
 ## include a Table of Contents (TOC)
 

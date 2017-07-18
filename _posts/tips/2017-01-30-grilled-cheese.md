@@ -14,7 +14,11 @@ image:
   thumb: 
   feature: 
   teaser:
+last_updated_at: "2017-07-14 09:49:55"
 ---
+
+**Aw, jeeze** I was recently told that what I think is an amazing perfect combination of cheeses is merely the essential fondue cheese combination. This was understandably devastating to me, but I leave this post here only to serve as a warning the next time I think I have come up with anything. 🤣
+{: .notice--warning :}
 
 This is yet another of my many generous gifts to the world. You've earned it.
 

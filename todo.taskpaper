@@ -1,6 +1,10 @@
 The Big Todo
 ------------
 
+Uh oh:
+  - is my javascript shit for bigfoot working or not?
+  - do i need a new jquery
+
 Migration:
   - figure out why build/serve fails when my posts are introduced
   - make my image paths sane

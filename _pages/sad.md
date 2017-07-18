@@ -12,6 +12,8 @@ header:
 author_profile: true
 ---
 
+Honestly, what else can I say about it?
+
 {% for post in site.categories.depression %}
-   {% include archive-single.html type="grid" %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}

@@ -27,9 +27,11 @@ featured: false
 
 {% include toc.html %}
 
-# Twelve
+# No Thirteenth
 
-Two weeks after I started my partial hospitalization program, and two days before our 12th wedding anniversary, Liz told me that she thought she wanted a divorce. She was 95% certain. I was 95% certain that she should have killed me. 
+Two weeks after I started my partial hospitalization program, and two days before our 12th wedding anniversary, Liz told me that she thought she wanted a divorce. She told me that she was 95% certain. 
+
+I was 95% certain that she should have killed me so that I'd never have to know.
 
 # Born in Fire
 
@@ -49,9 +51,8 @@ When Liz graduated from NYU, she moved in with me in Providence. We lived on the
 
 She asked me to get married a few times before I said yes. I wasn't trying to be difficult but I did want to be sure that she meant it, and I didn't want anything but certainty that I wanted it too. When I got sure enough, I said yes. 
 
-> There was a period of time here that is an entirely different story to unpack. The short version was that she asked me for something, I refused because reasons, and she left. We were separated for a while and saw a terrible marriage counselor. I never really gave her a satisfactory answer to her questions for years, and I don't know if the answer I gave then was acceptable either, but it probably didn't matter anymore. 
-> 
-> I only mention it because it was through this process that I stopped keeping one foot on the ground. For the record, I'm not sorry I did that, in spite of the present day events that bring me up this point in the story. 
+> There were a few months during the early years of our marriage that were painful and difficult. I have to think about finding a way to write about it without telling someone else's story. The short version is that my wife asked me for something, and I refused because reasons, and we separated for a while. It was not the root cause of all our problems, but it was not immaterial either. 
+{: .notice--info}
 
 # The Great Unraveling
 
@@ -61,7 +62,11 @@ I will attempt to paraphrase my understanding of how we got to the place where s
 
 My initial reaction to this was incredulous anger, and I resented this entire characterization; She knew I was depressed and suffered from chronic anxiety when we met. This is the status quo and my atttempts to get better have not been that productive. I knew she was nearing the end of her patience with me and my mental health and that this day could come. That was why I finally started taking drastic and much larger steps, like that partial hospital program. In couple's therapy we would talk about this being a possible outcome and one session in particular I acknowledged this. I thought that I had about six months to get my shit together. 
 
-I was actually out of time. First it was 95% certain I was out of time, and it's *very hard* to not blame outside factors in this, but it doesn't even matter anymore. It seemed to me like Liz spent this intermission whittling her remaining 5% to a 0%. I tried very hard to give her some distance in this span of time, which is almost impossible. When there is an empty space between us, I want to rush in and fill it. *This is precisely one of things that I would do that contributed to one of the reasons she needed to leave: the two of us were apparently very good at convincing her to set her feelings and needs aside in order to let the current dynamic between us continue largely unchanged.*
+@@edit
+I was actually out of time. First it was 95% certain I was out of time, and it's *very hard* to not blame outside factors in this, but it doesn't even matter anymore. It seemed to me like Liz spent this intermission whittling her remaining 5% to a 0%. I tried very hard to give her some distance in this span of time, which is almost impossible. ***When there is an empty space between us, I want to rush in and fill it.***
+
+> This is precisely one of things that I would do that contributed to one of the reasons she needed to leave: the two of us were apparently very good at convincing her to set her feelings and needs aside in order to let the current dynamic between us continue largely unchanged.
+{: .notice--warning}
 
 ## Patterns
 

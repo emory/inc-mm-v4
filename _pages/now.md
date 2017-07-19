@@ -6,6 +6,8 @@ date: 2017-05-01
 last_modified_at: 2017-07-01
 excerpt: "WTF is Emory doing?"
 share: true
+sidebar:
+  nav: "home"
 ---
 
 {% include toc.html %}

@@ -1,8 +1,8 @@
 ---
-layout: archive
+layout: splash
 permalink: /casting/
 date: 2013-08-31
-modified: 2016-07-14
+last_modified_at: "20170719091233"
 title: "Casting for Photography Projects"
 excerpt: "I only take the pictures."
 description: "Photography Projects: Castings"
@@ -10,9 +10,11 @@ category: [castings, projects]
 tags: [projects, photography, casting]
 header:
   overlay_image: /assets/images/skip.jpg
-  credit: Emory Lundberg
+  overlay_filter: rgba(200, 0, 140, 0.30)
+  caption: Emory Lundberg
   teaser: /assets/images/skip-500x500.jpg
-nav: "home"
+sidebar:
+  nav: "home"
 ---
 
 # Current Projects 

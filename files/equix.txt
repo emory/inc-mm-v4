@@ -1,0 +1,62 @@
+> This is a Quix Command File
+>
+> For the syntax of this file, please refer to https://www.quixapp.com/syntax/
+>
+
+@Social commands
+@These commands are for dealing with social networks and social sites.
+fb		http://www.facebook.com/share.php?u=%r&t=%t							Share the current page on Facebook
+li		javascript:(function(){d=document,l=d.location,f='http://www.linkedin.com/shareArticle?mini=true&ro=false&trk=bookmarklet&title='+encodeURIComponent(d.title)+'&url='+encodeURIComponent(l.href),a=function(){if(!window.open(f,'News','width=520,height=570,toolbar=0,location=0,status=0,scrollbars=yes')){l.href=f;}};if(/Firefox/.test(navigator.userAgent)){setTimeout(a,0);}else{a();}})()				Share the current page on LinkedIn
+t       http://twitter.com/%s												Twitter User
+ru		https://reddit.com/u/%s				Reddit User page
+sr		https://reddit.com/r/%s				Subreddit page
+rus		https://reddit.com/u/%s/submitted		Reddit User submitted links
+post 	post javascript:(function()%7Bwindow.open('http://emory.kvet.ch/share?share_url='%r'+encodeURIComponent(document.title));%7D)();			post to Known
+
+@URL Shortening
+@A group of URL shorteners
+bitly		http://bit.ly/?v=3&u=%re&s=%s%20%te					Shorten with <a href="http://bit.ly/">bit.ly</a>
+awesm		http://create.awe.sm/url/share?target=%re&version=1 	Shorten with <a href="http://awe.sm/">awe.sm</a>
+googl		script:https://www.quixapp.com/js/quix-googl.js				Shorten with Goo.gl
+
+@Tooling
+@Bookmarklets for services and software I use
+of              javascript:window.location='omnifocus:///add?note='+encodeURIComponent(window.location)+'&name='+encodeURIComponent(document.title) Send to OmniFocus
+pb              javascript:q=location.href;p=document.title;void(open('http://pinboard.in/add?url='+encodeURIComponent(q)+'&title='+encodeURIComponent(p),'Pinboard',%20'toolbar=no,width=700,height=350')); PB 2
+pbl             javascript:q=location.href;p=document.title;void(t=open('http://pinboard.in/add?later=yes&noui=yes&jump=close&url='+encodeURIComponent(q)+'&title='+encodeURIComponent(p),'Pinboard','toolbar=no,width=100,height=100'));t.blur(); pinboard read later
+bfed   	 	javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='http://cowbell.hellyeah.com/fever/?feedlet&js&'+(new%20Date()).getTime();document.getElementsByTagName('head')[0].appendChild(s);})();		Feedlet Fever
+eye   javascript:void(window.open('http://tineye.com/search?pluginver=bookmark_1.0&url='%20+%20encodeURIComponent(document.URL)));  TinyEye: Where's this image from?
+pdf   http://pdfmyurl.com?url=%r  Create a PDF from this page
+rl    javascript:function%20iprl5(){var%20d=document,z=d.createElement('scr'+'ipt'),b=d.body;try{if(!b)throw(0);d.title='(Saving...)%20'+d.title;z.setAttribute('src','http://www.instapaper.com/j/vIeRKDI16cqo?u='+encodeURIComponent(d.location.href)+'&t='+(new%20Date().getTime()));b.appendChild(z);}catch(e){alert('Please%20wait%20until%20the%20page%20has%20loaded.');}}iprl5();void(0)  Read later with Instapaper
+rn    javascript:function%20iptxt(){var%20d=document;try{if(!d.body)throw(0);window.location='http://www.instapaper.com/text?u='+encodeURIComponent(d.location.href);}catch(e){alert('Please%20wait%20until%20the%20page%20has%20loaded.');}}iptxt();void(0)  Read now with Instapaper
+wtfjs   javascript:(function(){var%20m,n=[],j,c,t=document.getElementById("_wtframework"),q=0;c=function(){document.body.removeChild(m);};if(t){document.body.removeChild(t);return;}var%20b=["MooTools.version","MooTools.More.version","base2.version","dojo.version","Ext.version","jQuery.fn.jquery","$.ui.version","MochiKit.MochiKit.VERSION","Prototype.Version","Scriptaculous.Version","YAHOO.VERSION","S2.Version"];var%20r=["MooTools%20Core","MooTools%20More","Base2","Dojo","Ext%20JS","jQuery","jQuery%20UI","MochiKit","Prototype","Script.aculo.us","Yahoo%20UI","Scripty2"];var%20k={cursor:"pointer",textAlign:"left",padding:"8px%2010px",margin:"0%200%205px",listStyle:"none",font:"bold%2011px%20Lucida%20Grande",backgroundColor:"rgba(0,%200,%200,%200.7)",color:"#fff",BorderRadius:"5px",MozBorderRadius:"5px",WebkitBorderRadius:"5px",borderTop:"solid%201px%20rgba(255,%20255,%20255,%200.4)",borderLeft:"solid%201px%20rgba(0,%200,%200,%200.8)",borderRight:"solid%201px%20rgba(0,%200,%200,%200.8)",borderBottom:"solid%201px%20#000",textShadow:"0%201px%200%20#000",BoxShadow:"0%20-1px%200%20#000",MozBoxShadow:"0%20-1px%200%20#000",WebkitBoxShadow:"0%20-1px%200%20#000",cssFloat:"right",clear:"both"};var%20l={width:"190px",position:"fixed",padding:"0",margin:"0",right:"10px",top:"10px",zIndex:30000};var%20e={onclick:c,id:"_wtframework"};m=document.createElement("ul");for(var%20d%20in%20e){m[d]=e[d];}for(var%20h%20in%20l){m.style[h]=l[h];}document.body.appendChild(m);var%20f=function(v,i){n=document.createElement("li");n.innerHTML=v+(i?"%20("+i+")":"");for(var%20u%20in%20k){n.style[u]=k[u];}m.appendChild(n);};for(var%20a%20in%20b){if(b.hasOwnProperty(a)){var%20g=b[a].split("."),o=window;for(var%20p%20in%20g){if(g.hasOwnProperty(p)){o=o&&o[g[p]];}}if(o){f(r[a],o);q++;}}}if(q<1){f("No%20framework%20detected");}})();  Shows JavaScript framework used
+site  javascript:void(location.href='http://www.sitonomy.com/?url='+location.href)  Anatomy of site checked by Sitonomy
+built javascript:void(location='http://builtwith.com/?'+escape(location)) Anatomy of site checked with BuildtWith
+edit  javascript:document.body.contentEditable='true';%20document.designMode='on';%20void%200  Edit page
+
+
+@Mac Integration commands
+@A lot of Mac programs allow easy integration with browsers by allowing for URL's to open them. These commands take full advantage of that.
+dt 	javascript:window.location='x-devonthink://createWebArchive?title='+encodeURIComponent(document.title)+'&location='+encodeURIComponent(window.location)+'&referrer='+encodeURIComponent(document.referrer);
+
+
+@Text tools (by Roberto Mateu)
+> Roberto Mateu's Markdown and text manipulation tools
+> Many thanks to [Roberto Mateu](http://5typos.net/) for
+> 1. His awesome Markdown bookmarklets
+> 2. His kind [acknowledgment](http://5typos.net/post/259552063/bookmarklets-for-text-manipulation) of my [KFG link](##)
+> 3. His sharing the five bookmarklets in a manner that has made it so trivially easy to copy and paste, per below
+ml          javascript:(function(s){try{s=document.selection.createRange().text}catch(_){s=document.getSelection()}prompt('Markdown%20Link','['+s+']('+location+')')})();void(0)                        Copy selected text as Markdown link
+mt          javascript:(function(s){try{s=document.selection.createRange().text}catch(_){s=document.getSelection()}prompt('Markdown%20Title','['+document.title+']('+location+')')})();void(0)            Copy title as Markdown link
+mu          javascript:(function(s){try{s=document.selection.createRange().text}catch(_){s=document.getSelection()}prompt('Markdown%20URL','('+location+')')})();void(0)                                URL as markdown link
+mc          javascript:(function(s){try{s=document.selection.createRange().text}catch(_){s=document.getSelection()}prompt('Markdown%20Copy','['+document.title+']('+location+')\n\n>'+s)})();void(0)    Copy selected text as quote with title URL in markdown
+tc          javascript:(function(s){try{s=document.selection.createRange().text}catch(_){s=document.getSelection()}prompt('',document.title+'\n'+location+'\n'+s)})();void(0)   Page title, URL and selection
+> [Merlin's dumb reminder on what does what]
+> Source: [Quix Syntax - Quix](http://quixapp.com/help/syntax/)
+>> Replacement tokens
+>> In your executables you can use replacement tokens, currently, Quix supports the following tokens:
+>> %s        Replaced by any search terms that were entered after the command and / or any text that was selected when the command was issued. Thereâ€™s a special case of this: %s_, this does the same except that it replaces spaces with underscores ( _ ) instead of plus signs, this is used in the Wikipedia command in the example file.
+>> %r        Replaced by the URL you were on when the command was issued.
+>> %rs       Replaced by a bit.ly shortened version of the URL you were on when the command was issued.
+>> %d        Replaced by the domain you were on when the command was issued.
+>> %t        Replaced by the title of the page you were on when the command was issued.

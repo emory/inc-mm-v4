@@ -33,7 +33,7 @@ home:
   - title: "Featured Articles"
     url: /articles/
     children:
-      - title: "Collection: I've Been Sad"
+      - title: "I've Been Sad"
         url: /sad/
   - title: "Resources"
     children:

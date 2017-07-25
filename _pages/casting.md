@@ -1,8 +1,8 @@
 ---
-layout: splash
+layout: single
 permalink: /casting/
 date: 2013-08-31
-last_modified_at: "20170719091233"
+last_modified_at: "2017-07-19 09:12:33"
 title: "Casting for Photography Projects"
 excerpt: "I only take the pictures."
 description: "Photography Projects: Castings"

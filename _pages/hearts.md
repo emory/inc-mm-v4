@@ -10,7 +10,7 @@ sidebar:
   nav: "home"
 ---
 
-<figure class="third">
+<figure class="full">
 {% lychee_album_no_cache 15003830696683 %}
 </figure>
 

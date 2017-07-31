@@ -200,7 +200,7 @@ whitelist:
 # lychee tag @emory
 lychee:
   url: http://img01.incumbent.org
-  album_title_tag: h1
+  album_title_tag: h2
   link_big_to: img
 
 # Archives

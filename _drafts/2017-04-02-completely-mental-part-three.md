@@ -14,7 +14,7 @@ date: 2017-04-02
 last_modified_at: 2017-07-30 22:15
 header:
   image: /assets/images/2017/march/2017-03-21-forever-in-12-years.jpg
-  teaser: /assets/images/2017march/2017-03-21-forever-in-12-years.jpg
+  teaser: /assets/images/2017/march/2017-03-21-forever-in-12-years.jpg
   caption: The place where forever lasts 12 years.
 featured: true
 ---

@@ -33,7 +33,7 @@
 #
 # Tobias Brunner <tobias@tobru.ch> - https://tobrunet.ch
 # License: MIT
-# 
+#
 # see also: https://tobrunet.ch/articles/jekyll-meets-lychee-a-liquid-tag-plugin/
 # gist: https://gist.github.com/tobru/9171700
 #
@@ -70,7 +70,7 @@ def render(context)
       api_url = @config['url'] + "/php/index.php"
       uri = URI.parse(api_url)
 @http = Net::HTTP.new(uri.host, uri.port)
-@http.use_ssl = true
+@http.use_ssl = false
 @request = Net::HTTP::Post.new(uri.request_uri)
 @request['Cookie'] = init_lychee_session
       album = cached_response(@album_id, 'album') || get_album(@album_id)

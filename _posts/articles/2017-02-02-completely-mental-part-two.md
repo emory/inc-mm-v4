@@ -9,12 +9,12 @@ tags:
  - mentalhealth
 category: [articles, essay, depression]
 date: 2017-02-02
-last_modified_at: 2017-07-01 18:53:00
+last_modified_at: 2017-07-30 11:10:00
 header:
   overlay_image: /assets/images/2000-2001-emory-rearview.jpg
   overlay_filter: 0.5
   teaser: /assets/images/2000-2001-wiperfluid.jpg
-  thumb: 2000-2001-emory-profile-sm.jpg
+  thumb: /assets/images/2000-2001-emory-profile-sm.jpg
   credit: Annette Thomson
 ---
 
@@ -55,9 +55,18 @@ This process was far too short because I have a very capricious attention span. 
 
 # Providence 
 
-Station Nightclub fire happened. A tragedy becomes an opportunity. I move to Rhode Island. My girlfriend grew up in New England, and she doesn't like DC and I do not heart New York. I am still madly in love and we awkwardly learn about our love and find our way. I know that I'm not well, and she has her own battles going on. I start finding ways to make huge emotional swings occur inside of me, or to make them less relevant by aggressively self-medicating.
+In 2003, [The Station Nightclub Fire](https://en.wikipedia.org/wiki/The_Station_nightclub_fire) in Providence resulted in the death of some colleagues in Guardent's Providence, Rhode Island office. I was working in Old Town Alexandria in the Consulting and Professional Services team, and I volunteered to pitch in with the engineering team in Providence. I was comfortable in managed services already and it was work I'd done before, so they took me up on my offer. I stayed with Liz's parents and siblings for a few days in Ledyard, CT, and commuted in to Providence. While I was there I made friendships with people that will last a lifetime. It wound up being a week-long job interview of sorts. I was offered a position up there, and I accepted it. 
 
-We get married, and a lot of life happens. [^badandrea] She decidedly gets her shit together, and maybe I'm a little jealous but also inspired to do something for myself, but only a little. My therapy picks up again but I can't bring myself to really try. I don't know why it was so hard for me; maybe I was worried about upsetting the illusion of everything being fine? I'm apparently okay as long as I throw my life into the path of a wood-chipper now and then. The parts of me that are in control are keeping me alive, but not much beyond that. I have paradoxically lucid moments of being fully present while self-medicating.  
+> The person that made it all happen and ensured I was taken care of by calling in a few favors was someone I would find a way to repay years later when it was time for me to leave. That is actually a legit *caper* that I want to write about sometime because it's pretty amazing and was easily the most complicated maneuvering I've ever done. 
+{: .notice--info}
+
+When Liz graduated from NYU, she moved in with me in Providence. We lived on the East Side of Providence, and we lived off Hope Street, like the old poster says: 
+
+![Providence, Rhode Island where it rains two days out of three except during the rainy season when it snows like a bitch, and Friendship is a one-way street. Rich folks live on Power Street, but most of us live off Hope.](http://www.madpeck.com/grafix/posters/ProvColorWM.jpg)
+
+She asked me to get married a few times before I said yes. I wasn't trying to be difficult or an asshole about it; I did want to be sure that she meant it, and I didn't want anything but certainty that I wanted it too. When I got sure enough, I said yes. We were married at the Bellagio Hotel in January of 2005, four years after we met.
+
+My therapy picks up again but I can't bring myself to really try. I don't know why it was so hard for me; maybe I was worried about upsetting the illusion of everything being fine? I'm apparently okay as long as I throw my life into the path of a wood-chipper now and then. The parts of me that are in control are keeping me alive, but not much beyond that. I have paradoxically lucid moments of being fully present. 
 
 Ultimately, by this point, I don't want to be better. My illness is adopted as my personality now. It is almost completely in charge, all the time. I have relinquished my life to the capricious Parts of me that vie for control and encourage me to do things that virtually guarantee I will never get better. This is where I really start showing my knack for what a therapist will later call *trauma bonding*, where I need to find people that hurt like me, and it is a source of amazement to me how fast we can find each other in the wilderness. It's like it has it's own gravity, this infinte sadness. I meet people, I pick open the scabs on their hearts and brains, and inspect the wounds. I think I have noble intentions but I see it much differently today. I was not helping anyone. I was only trying to make them more resemble me. This is a going to be something I have a lot of guilt about.
 
@@ -82,9 +91,9 @@ We have a baby. Our daughter is amazing, and I have moments of greatness and mom
 
 ## Comrades in Arms
 
-A friend of mine fights similar battles and we talk when we are feeling especially optimistic or especially not. She is an amazing woman because she understands herself in a way I want to understand myself. 
+My friend Sam fights similar battles and we talk when we are feeling especially optimistic or especially not. She is an amazing woman because she understands herself in a way I want to understand myself. 
 
-I get a phone call one morning because she's fucking dead. She's gone from the world and I'm screaming into the skies the whole way to my therapist's office. I realize how often I've said callous things about people that end their own life. I would say that they were cowards. I realize at that moment that they aren't cowards, but that they're just so tired of being brave all the time. They don't have a life that doesn't require heroism of them every minute of the day. I am often curious about how close I get to that point. I don't ever spend much time even looking at that place but it seems more real to me now. Part of my mind is no doubt elated that I'm finally seeing the great waste of time living truly is.
+I get a phone call one morning because she's fucking dead. She's gone from the world and I'm screaming into the skies the whole way to my therapist's office. I realize how often I've said callous things about people that end their own life. I would say that they were *cowards*. I realize at that moment that they aren't cowards, but that they're just tired of **needing to be brave all the time**. They don't have a life that doesn't require heroism of them every minute of the day. I am often curious about how close I get to that point. I don't ever spend much time even looking at that place but it seems more real to me now. *Part of me is no doubt elated that I'm finally seeing the great waste of time living truly is.*
 
 I go another way. I just continue to pull away from the world around me and engage in life by proxy. I do some surface work, but I'm only rearranging deck chairs on the Titanic of my mind. ***I'm not adverse to working on it but I'm still trying to dive deeper and deeper to fully experience the most painful life I can.*** It feels like joy is scarce because I view it through a filter of it being an illusion anyway, because my struggle is all-consuming. Everything is about me. What I used to think of as a gift of empathy is giving me a way to co-opt the lives of other people around me and make their achievements something that I am doing too, **or having done to me**. It becomes very difficult for me to feel joy, or even happiness for another person. I have been defeated by the realization that my work to this point was all for nothing, and I take another break from my therapy. How could I have been so wrong? I was determined to find the answers I needed where there were none to be found. It's humiliating. I have an utterly manic episode of mapping out and outlining every stray thought and thread related to my emotional state. 
 
@@ -113,9 +122,11 @@ Over the last few years my wife has seen my condition deteriorating steadily. It
 <p>This is part two of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a>.</p>
 </div>
 
+Part Three is tentatively titled [No Thirteenth](https://incumbent.org/post/completely-mental-part-three/), and it is a doozy.
+
 [^xanax]: Alprazolam, 0.25mg
 [^zoloft]: Sertraline, 50mg
 [^depakote]: Divalproex HCL, and, a lot of it
 [^nova]: Northern Virginia, huckleberry.
 [^nope]: **NOPE NOPE NOPE**
-[^badandrea]: This is another place where entire essays could be written about what occurs but I don't feel like I fully own the rights to that story yet.
+

@@ -37,6 +37,8 @@ I was 95% certain that she should have killed me so that I'd never have to know.
 
 # Born in Fire
 
+	//@emory — tie this back to the timeline in part 2 and reduce duplication
+
 Liz and I met the summer of 2001. I was still living in *NoVA*, and she was an undergrad at NYU visiting a friend for the summer in Maryland. We moved pretty quickly, but the real gasoline on our grassfire was 9/11. In the course of one day I became acquainted with her parents in Connecticut, and was trying to get her out of Manhattan on what would end up being the last train to leave Penn Station. 
 
 She stayed with me for a few weeks in the aftermath of a tragedy that defined a generation. We were both a bit shaken, but while I could see the smoke from the pentagon, she watched the second plane strike the tower in the rear-view mirror of her shuttle. Eventually she had to go back to New York, but the cement had formed around us and would eventually be reinforced by sixteen years and two children.

@@ -49,16 +49,14 @@ At this point in the story, my mind was presented with the opportunity to protec
 ### Talk About It
 
 I started seeing a therapist in Silver Spring, and I was living in Fairfax County. I was only halfway engaged with therapy because the immediate threat had passed. I had finally reduced any possibility for me to be accountable to anyone and I was isolating myself socially and professionally. I was trying to be careful with my heart because never again could I hurt so badly if I never let it get into that sort of situation again. I made some bad decisions, but I made some good ones, too. 
+
 She was a good therapist and I measure others by her. I was a bad client because I didn't actually want to do any work. ***It was comforting to be sick and it made me feel good to be in this place as stupid as it may sound. I had the comfort in being sad, finally.***
 
-This process was far too short because I have a very capricious attention span. Fast-forward a few months later and my therapy is back-burnered. I am just so busy! Also?! P.S.? I met someone extraordinary, and it is hard enough traveling DC to NYC and back again. *I am madly in love* with a woman that lit a lantern in me that will never be extinguished until the stars collapse and the Universe is reborn anew. That sounds incredibly dramatic but it's completely true. As you've come to expect from me by now, I am not integrating this period of time with the rest of me very well, but I don't care because that was in the past. This is arguably one of the most short-sighted moments of my life. There was an opportunity here for healing and I missed it.
+This process was far too short because I lost interest. Fast-forward a few months later and my therapy is back-burnered. I am just so busy! Also?! P.S.? I met someone that I'm going to marry someday, and it is hard enough traveling DC to NYC and back again. As you've come to expect from me by now, I am not integrating this period of time with the rest of me very well, but I don't care because that was in the past. This is arguably one of the most short-sighted moments of my life. There was an opportunity here for healing and I missed it.
 
 # Providence 
 
 In 2003, [The Station Nightclub Fire](https://en.wikipedia.org/wiki/The_Station_nightclub_fire) in Providence resulted in the death of some colleagues in Guardent's Providence, Rhode Island office. I was working in Old Town Alexandria in the Consulting and Professional Services team, and I volunteered to pitch in with the engineering team in Providence. I was comfortable in managed services already and it was work I'd done before, so they took me up on my offer. I stayed with Liz's parents and siblings for a few days in Ledyard, CT, and commuted in to Providence. While I was there I made friendships with people that will last a lifetime. It wound up being a week-long job interview of sorts. I was offered a position up there, and I accepted it. 
-
-> The person that made it all happen and ensured I was taken care of by calling in a few favors was someone I would find a way to repay years later when it was time for me to leave. That is actually a legit *caper* that I want to write about sometime because it's pretty amazing and was easily the most complicated maneuvering I've ever done. 
-{: .notice--info}
 
 When Liz graduated from NYU, she moved in with me in Providence. We lived on the East Side of Providence, and we lived off Hope Street, like the old poster says: 
 

@@ -11,7 +11,7 @@ tags:
  - divorce
 category: [articles, essay, depression]
 date: 2017-04-02
-last_modified_at: 2017-07-30 22:15
+last_modified_at: 2017-08-01 19:28
 header:
   image: /assets/images/2017/march/2017-03-21-forever-in-12-years.jpg
   teaser: /assets/images/kintsugi-square-sm.jpg
@@ -21,10 +21,10 @@ featured: true
 
 <div class="notice--warning">
 <h4>Beware: Falling Serifs</h4>
-<p>This is part three of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a></p>
+<p>This is part <b>three</b> of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a></p>
 </div>
 
-First of all I'd just like to say that this is the hardest part of this series that I've written yet. I wanted to write this back in April, but I couldn't have written it then, and doing so would have meant sharing some private matters with the public at large before the appropriately members of our private lives were up to speed. A lot has happened between now and then, and I'll do my best to make sense of it all as we go.
+First of all I'd just like to say that this is the hardest part of this series that I've written yet. I wanted to write this back in April, but I couldn't have written it then, and doing so would have meant sharing some private matters with the public at large before members of our private lives were up to speed. A lot has happened between now and then, and I'll do my best to make sense of it all as we go.
 {: .notice--warning}
 
 {% include toc %}
@@ -33,64 +33,68 @@ First of all I'd just like to say that this is the hardest part of this series t
 
 Two weeks after I started my partial hospitalization program, and two days before our 12th wedding anniversary, Liz told me that she thought she wanted a divorce. She told me that she was 95% certain. 
 
-I was 95% certain that she should have killed me, so that I'd never have to know.
+**I was 95% certain that she should have killed me, so that I'd never have to know.**
 
 ## Born in Fire 
 
-Liz and I met the summer of 2001, when I was still seeing a therapist in Silver Spring and quickly losing interest in getting better. I was living in Fairfax County, and she was an undergrad at NYU visiting a friend for the summer in Maryland. We moved pretty quickly, but the real gasoline on our grassfire was 9/11. In the course of one day I became acquainted with her parents in Connecticut, and was trying to get her out of Manhattan on what would end up being the last train to leave Penn Station. 
+Liz and I met the summer of 2001, when I was still seeing that therapist in Silver Spring and quickly losing interest in getting better. In [part two](https://incumbent.org/post/completely-mental-part-two/), I was living in Fairfax County, Virginia, and she was an undergrad at NYU visiting a friend for the summer in Maryland. We moved pretty quickly, but the **real** gasoline on our grassfire was 9/11. In the course of one day I became acquainted with her parents in Connecticut, and I was trying to get her out of Manhattan on what would end up being the last train to leave Penn Station. 
 
-She stayed with me for a few weeks in the aftermath of a tragedy that defined a generation. We were both a bit shaken up at times, but while I could see the smoke from the pentagon, she watched the second plane strike the tower in the rear-view mirror of her shuttle. Eventually she had to go back to New York, but the cement had formed around us and would eventually be reinforced by sixteen years and two children.
+She stayed with me for a few weeks in the aftermath of a tragedy that defined a generation. We were both a bit shaken up at times, but while I could see the smoke from the pentagon, she watched the second plane strike the tower in the rear-view mirror of her shuttle. Eventually she had to go back to New York, but the cement had formed around us and would be one day reinforced by sixteen years and two children.
 
-There were a couple of times where Liz would mention 9/11 and ask me if I thought that day was the reason we were together. I didn't like the question. It made me wonder if she didn't know why she was even with me or fell in love with me and was looking for an explanation? I couldn't be mad about it or anything, because I had the same thought now and then, but I didn't know what I was supposed to do with any answer I might arrive at. I felt like I would end up reducing our relationship to simply wanting to feel safe and not be alone while the country drifted towards chaos.
+There were a couple of times where Liz would mention 9/11 and ask me if I thought that day was the reason we were together. I didn't like the question. It made me wonder if she didn't know why she was even with me or fell in love with me and was looking for an explanation? I couldn't be mad about it or anything, because I had the same thought now and then, but I didn't know what I would to do with any answer I might arrive at. I felt like I would end up reducing our relationship to simply wanting to feel safe and not be alone while the country drifted towards chaos.
 
 ## The Great Unraveling
 
-It was Martin Luther King Jr. Day, that magical day of the year where daycare is open and our campus is closed. We went to go see Rogue One, which she had already seen. Three days earlier I had my 40th birthday. She told me she thought she wanted a divorce and then I had to go pick up our kids. I didn't know what had even just happened, really. It was two days before our wedding anniversary, but we were married on Martin Luther King Jr. Day. It just felt symbolic for it to be on that day of all the days. 
+It was Martin Luther King Jr. Day, that magical day of the year where daycare is open and our workplace (campus) is closed. We went to go see Rogue One, which she had already seen. Three days earlier I had my 40th birthday. Milestones were everywhere! She told me she thought she wanted a divorce and then I had to go pick up our kids. I didn't even know what had even just happened. It may have been two days before our wedding anniversary, but our wedding was also on Martin Luther King Jr. Day. It just felt symbolic for it to be on that day of all the days. 
 
-The next two weeks were so utterly chaotic, emotionally. I often felt betrayed and even deceived. My moods would swing wildly to both ends of the spectrum every day, and I left my partial hospitalization to redouble my efforts in individual therapy and our couples therapy. Our goals and priorities in couple's therapy obviously had to change, and for the next couple of months there will be many disappointing and often agonizing developments that are unpacked in that room. 
+The next two weeks were so utterly chaotic, emotionally. I often felt betrayed and even deceived. My moods would swing wildly to both ends of the spectrum every day, and I left my partial hospitalization to redouble my efforts in individual therapy and our couples therapy. Our goals and priorities in couple's therapy would change, and for the next couple of months there will be many disappointing and often agonizing developments that get unpacked in that room. 
 
-Staying married to me was not an option anymore. I resisted being better for whatever reason, and it had gotten to the point where she could no longer tolerate not being able to be the person she wants to be, while also fighting against the ceaseless tide of my seas. She was living most of her life on eggshells now, setting aside her own wants and needs to accommodate my own nebulous demands to *feel* a certain way. She resented the pressure I put on her to manage my emotions — *I had somehow successfully made her responsible for my feelings, and her attempts to free herself from this were thwarted by our patterns of relating to each other.*
+Staying married to me was not an option anymore. I resisted getting better for whatever reason, and it had gotten to the point where she could no longer tolerate not being able to be the person she wants to be, while also fighting against the ceaseless tide of my seas. She was living most of her life on eggshells now, setting aside her own wants and needs to accommodate my own nebulous demands to *feel* a certain way. She resented the pressure I put on her to manage my emotions — *I had somehow successfully made her responsible for my feelings, and her attempts to free herself from this were thwarted by our patterns of relating to each other.*
 
-My initial reaction to this was incredulous anger. I mean honestly, she knew I was depressed and suffered from chronic anxiety when we met! This was the status quo and my attempts to get better have not been that productive. I was working on it though, and I was surrounded by a team of professionals that could surely get through to me somehow. I had known she was nearing the end of her patience with me and that this day *could* come. I think it was about a week prior to that day that this came up in our couple's therapy session. She and our therapist explicitly put it out there that our marriage ending could be a very possible outcome. That was the day it really hit me: *I have about six months to get my shit together or we're through.* In that same moment, I think it hit Liz that we're already done. 
+My initial reaction to this was incredulous anger. I mean honestly, she knew I was depressed and suffered from chronic anxiety when we met! This was the status quo and my attempts to get better have not been that productive. I was working on it though, and I was surrounded by a team of professionals that could surely get through to me somehow. I had known she was nearing the end of her patience with me and that this day *could* come. I think it was about a week prior to that day that this came up in our couple's therapy session. She and our therapist explicitly put it out there that our marriage ending could be a possible outcome. That was the day it hit me: *I have about six months to get my shit together or we're through.* In that same moment, I think it hit Liz that we were already done. 
 
-So on that afternoon I found out that I'm actually out of time. There is this brief window where her *95%* would work it's way towards *100%*, and while it's *very hard* to not blame outside factors in this, it doesn't matter anymore. [^havingsaidthat] She needed some distance from me, emotionally, and that has always difficult enough, so now it seemed impossible. **When there is an empty space between us, I want to rush in and fill it.** She knew that would happen, so *she built a wall that I could not climb*. I would sometimes throw myself at it and I often felt that I was going through this torturous process completely on my own and that she wasn't grieving or processing all of this in a way I could recognize. It was very disorienting and hurtful, and yet it was probably the right thing to do. It kills me to write that, but I think I know why she had to do it that way. It brings me a profound sadness to acknowledge that I had become someone that she needed to protect herself from emotionally. It broke my heart.
+In fact, on that afternoon I found out that I'm out of time. There is this brief window where her *95%* would work it's way towards *100%*, and while it's *hard* to not blame outside influences in this, it doesn't matter anymore. [^havingsaidthat] She needed some distance from me, emotionally, and that has always difficult enough, so now it seemed impossible. **When there is an empty space between us, I want to rush in and fill it.** She knew that would happen, so *she built a wall that I could not climb*. 
+
+I would sometimes throw myself at her wall and I often felt that I was going through this torturous process on my own and that she wasn't grieving or processing all of this in a way I could recognize. It was disorienting and hurtful, and yet it was probably the right thing to do.
+
+It kills me to write that today, but I think I know why she had to do it that way. It brings me a profound sadness to recognize that I had become someone that she needed to protect herself from emotionally. It broke my goddamned heart.
 
 ### Ask Me About My Radical Vulnerability 
 
-From the start, Liz told me she had this vision of a *Collaborative Divorce*, which is a real thing. In Iowa it isn't part of the law, but the objective is very similar: work together and don't be adversaries. In our case, the other objective is to be the best possible co-parents you can be. I hated reading that goddamned word the first few times I heard it. Co-parents? At any rate, I wasn't too worried about being a co-anything with Liz at the time. 
+From the start, Liz told me she had this vision of a *Collaborative Divorce*, which is a real thing. In Iowa it isn't part of the law, but the objective is similar: work together and don't be adversaries. In our case, the other goal is to be the best possible co-parents you can be. I hated reading that goddamned word the first few times I heard it. Co-parents? At any rate, I wasn't too worried about being a co-anything with Liz at the time. 
 
-Until I could arrive at Scenic Collaborative Island, I adopted a posture of leaving myself wide open. I set myself up for disappointment and suffered a few indignities. I didn't take the well-intentioned advice I may receive of family and friends to retain counsel and do everything I could to protect myself from this assault on my sanity and family and extract my wife from my life like a surgeon might remove a tumor. 
+Until I could arrive at Scenic Collaborative Island, I adopted a posture of leaving myself wide open. I set myself up for disappointment and suffered more than a few indignities. I didn't take the well-intentioned advice I may receive of family and friends to retain counsel and do everything I could to protect myself from this assault on my sanity and family and extract my wife from my life like a surgeon.
 
-I was a complete disaster to her, I'm sure, but I had to do it this way and let myself get a little pummeled now and then because the alternative was going to make it even worse. At the time I didn't know how I could navigate this any other way because it wouldn't be until a couple of months later that I'd finally turn the corner on all of it. I was very afraid that if I didn't keep myself off-balance in some way that I'd naturally start to fortify and begin making it impossible for us have anything that either of us wanted for ourselves. If I burned her to the ground like the more angry and spiteful parts of me sometimes wanted, it would be unforgivable. I didn't want that. I couldn't wall myself off like she did because those walls would quickly get fortified. She did it her way, I did it mine.
+I was an utter mess to her, I'm sure, but I had to do it this way and let myself get a little pummeled now and then because the alternative was going to make it even worse. At the time I didn't know how I could navigate this any other way because it wouldn't be until a couple of months later that I'd finally turn the corner on any of it. I was afraid that if I didn't keep myself off-balance in some way that I'd naturally start to fortify and begin making it impossible for us have anything that either of us wanted for ourselves. If I burned her to the ground like the more angry and spiteful parts of me sometimes wanted, it would be unforgivable. I didn't want that. I couldn't wall myself off like she did because those walls would quickly get fortified. She did it her way, I did it mine.
 
 ## Patterns
 
-Part of the narrative she had for the state of our marriage that I especially resented was that we were in these rigid roles that we couldn't change. My objection to this was that I *knew* it could be changed. People can evolve and change, it happens all the time! Why must we scuttle the ship when all we need to do is rededicate ourselves, again, to repairing this relationship?
+Part of the narrative she had that I especially resented was that we were in these rigid roles that we couldn't change. My objection to this was that I ***knew*** it could change! People can evolve and change, it happens all the time! Why must we scuttle the ship when all we need to do is to yet again, dedicate ourselves, to repairing this relationship? It was easy for me to forget the time *and* effort for that change to occur. 
 
-One of the underlying patterns or dynamics that we had managed to build for ourselves over the years was the reason she had to build that wall in opposition to me: she explained it very succinctly as that the two of us together were exceptionally good at talking her out of her wants and needs to preserve mine. The moment she said it out loud I knew she was right even as I reached for a way to prove her point from inside my brain. We have a knowledge of each other that we cannot hide from, and sometimes we didn't use it for the right reasons.
+One of the underlying patterns or dynamics that we had managed to build for ourselves over the years was the reason she had to build that wall in opposition to me: she explained it somewhat succinctly as that the two of us together were good at talking her out of her wants and needs to preserve mine. The moment she said it out loud I knew she was right even as I reached for a way to prove her point from inside my brain. We have a knowledge of each other that we cannot hide from, and sometimes we didn't use it for the right reasons.
 
-I still had this idea in my head that we could fix this and that we secretly both really wanted it to be fixed. I felt that way until I saw evidence to the contrary.
+I still had this idea in my head that we could fix this, and that we both wanted our marriage repaired. I felt that way until I saw the evidence to the contrary.
 
-## The Marriage
+## "The Marriage"
 
-The software I use for handling all the various projects and tasks I am in the middle of is called OmniFocus [^omnifocus]. I use it on my iPhone, my iPad, and my Macs. It's one of the most important pieces of software I own, and I use on a daily basis because it brings organization to what is otherwise an attention deficit dumpster fire. I'm not even kidding a little.
+The software I use for handling all the various projects and tasks I am in the middle of is OmniFocus [^omnifocus]. I use it on my iPhone, my iPad, *and* my Macs. It's one of the most important pieces of software I own, and I use on a daily basis because it brings organization to what is otherwise an attention deficit dumpster fire. I'm not even kidding a little.
 
-For quite some time, I had a project in OmniFocus called *The Marriage*. It had been created years ago (!) and was where I shoved notes about conversations to have, or things to do that were related to growing or improving our marriage.
+For a long time, I've had a project in OmniFocus called *The Marriage*. I added it years ago (!) and that project was where I shoved notes about conversations to have, or things related to growing or improving our marriage.
 
-My wife and I can both point to the same day two years ago before Calvin was born that was probably where our marriage, as we knew it, was officially over. I was relentlessly thrashing as I often did, craving a *feeling* and asking her for something she would **never** give me. We were right on the verge of a complete break-down and I had a moment where I felt like my marriage wasn't the only thing in jeopardy. I immediately back-peddled entirely to end the conversation before it took the next logical step. I was mere moments away from ending it all in desperation, but instead I resolved to find a way to get what I needed another way, and we began treading water. 
+My wife and I can both point to the same day two years ago before Calvin was born that was probably where our marriage, as we knew it, was unofficially over. I was relentlessly thrashing as I often did, craving a *feeling* and asking her for something she would **never** give me. We were right on the verge of another break-down and I had a moment where I felt like my marriage wasn't the only thing in jeopardy. I back-peddled entirely to end the conversation before it took the next logical step. I was mere moments away from ending it all in desperation, but instead I resolved to find a way to get what I needed another way, and we began treading water. 
 
-> I would never be able to find what I needed another way because I was looking in the wrong place entirely, but I couldn't recognize or accept that yet. It's a very hard lesson to learn that some of the things you feel that you most desperately need are things that can only come from yourself.
+> I would never be able to find what I needed another way because I was looking in the wrong place entirely, but I couldn't recognize or accept that yet. It's a hard lesson to learn that some of the things you feel that you most desperately need are things that can only come from yourself.
 {: .notice--warning}
 
-After that day I had this idea in my head that we needed to "ratify" or revisit what our marriage was. I was actually open to the idea that it would have to end at the conclusion of that process or that at least some pretty large aspects of it would have to be vastly different. That was a hard thing to admit to myself, but what really hit me hard was when I looked at that project in OmniFocus that I scrolled past so easily? I saw how little effort was applied to all the things I assigned to *The Marriage*. You'd think it would be the most important project in my deck, but those tasks weren't being touched at all!
+After that day I had this idea in my head that we needed to "ratify" or revisit what our marriage was. I was open to the idea that it would have to end at the end of that process or that at least some pretty large aspects of it would have to be vastly different. That was a hard thing to admit to myself, but what hit me hardest was when I looked at that project in OmniFocus that I scrolled past so easily? I saw how little effort had gone into all the things I assigned to *The Marriage*. You'd think it would be the most important project in my deck, but those tasks weren't touched at all!
 
-So while I was angry with Liz for not simply saying "we're in trouble and I want to fix it", I had sixty tasks that sat there demanding attention of me. I've been telling *myself* "we're in trouble and I want to fix it", yet those actionable steps just sat there collecting dust along with my marriage.
+So while I was angry with Liz for not simply saying "we're in trouble and I want to fix it", I had sixty tasks that sat there demanding my attention. *I've been telling myself* that "we're in trouble and I want to fix it", yet those actionable steps just sat there collecting dust along with the rest of my marriage.
 
 In that moment, it stopped being a 24/7 catastrophe. It was a profoundly sad disappointment that brought me feelings of tremendous guilt and shame. And worse still, it was one that I had participated in passively, if not demanded by my own inaction. I couldn't blame this on Liz. She wouldn't let me blame it all on myself, but it sure felt like I was the root cause of all the breakdowns that led us here.
 
-# A Very Bad Day
+# Very Bad Day
 
-Our biggest concern financially was the house we bought a year ago. We contacted our Realtor and she met with us to give us an idea of what she recommend we do in this situation. We didn't think it was likely that either of us could keep our crazy-ass mid-century marvel [^ashley], and our Realtor was very decisive and wanted to move quickly to get out house under contract. I felt a little pressured on this but didn't see the point in pumping the brakes. 
+Our biggest concern financially was the house we bought a year ago. We contacted our Realtor and she met with us to give us an idea of what she recommend we do in this situation. We didn't think it was likely that either of us could keep our crazy-ass mid-century marvel [^ashley], and our Realtor was decisive and adamant that we wanted to move quickly to get out house under contract. I felt a little pressured on this but didn't see the point in pumping the brakes. 
 
 Once we were on this course, Liz took to preparing the house for showings and photos. There was a day where I came back to the house because I couldn't find one of my medications while I was at work. I came home while Liz was leaving, and stepped inside the house and it felt like the floor itself opened beneath me to swallow whole. The foyer was completely empty, and looking down the stairs to the living room it was like nobody even lived there anymore. In an instant everything vanished right in front of me.
 
@@ -99,27 +103,27 @@ I was a little dizzy and my pulse was loudly pushing blood through my ears. I ab
 > I've written about what happened next three times and every time I look at it afterwards it's not something I want to publish. 
 {: .notice--warning}
 
-I forced myself to take a few steps back, and in a bit of a panic, I made it back to my car. Somehow I made it to the parking garage where my friend Mari would rescue me over the telephone. I don't use that word lightly. It was a rescue. I never thought I would be in that place, but I was there. I was afraid of that place because of my friend Sam. *Our* friend, Sam. I resolved to never be in that situation ever again. It's one of the reasons I started writing about all of this in the first place. [^findingwater]
+I forced myself to take a few steps back, and in a bit of a panic, I made it back to my car. Somehow I made it to the parking garage where my friend Mari would rescue me over the telephone. I don't use that word lightly. It was a rescue. I never thought I would get there, but I was there. I was afraid, because of my friend Sam. *Our* friend, Sam. I resolved to never be in that situation ever again. It's one of the reasons I started writing about this in the first place. [^findingwater]
 
 ## Escape
 
-Crisis narrowly averted, I sent Liz a message that I was going to stay with my aunt and uncle in a neighboring city that night. I felt really weird just saying I was going away for a while. I honestly didn't know how long I'd be gone, and I hadn't talked to many people in my family except my parents about what was going on with Liz and I. 
+Crisis narrowly averted, I sent Liz a message that I was going to stay with my aunt and uncle in a neighboring city that night. I felt weird just saying I was going away for a while. I honestly didn't know how long I'd be gone, and I hadn't talked to many people in my family except my parents about what was going on with Liz and I. 
 
-When I got to their house I filled the two of them in over dinner. They were appropriately supportive and kind to me, and it felt good to reach out to some family and have them grab on and not let me float away into outer space. I was feeling much better that night and got some sleep. My dreams were nightmares, but when I woke up I was glad they weren't real. They were worse than my reality, and that was somewhat comforting. 
+When I got to their house I filled the two of them in over dinner. They were supportive and kind to me, and it felt good to reach out to some family and have them grab on and not let me float away into outer space. I was feeling much better that night and got some sleep. My dreams were nightmares, but when I woke up I was glad they weren't real. They were worse than my reality, and that was somewhat comforting. 
 
 # Catching-Up
 
-I was still in the middle of grieving my way through things Liz had already gone through months before. She was way out in front and dragging me along to this unlikely scenario where we are collaborators and raising our children amicably. Most of the time it still sounded like a complete fantasy in spite of my attempts to make it impossible for me to assume an aggressive posture. 
+I was still in the middle of grieving my way through things Liz had already gone through months before. She was way out in front and dragging me along to this unlikely scenario where we are collaborators and raising our children amicably. Most of the time it still sounded like an absurd fantasy in spite of my attempts to make it impossible for me to assume an aggressive posture. 
 
-She was already moving on. It felt like I couldn't catch my breath or get a break anywhere I turned — sometimes it felt like she was actively trying to break me. She was done delaying or postponing *anything* to preserve my feelings. She could not possibly be any clearer about that. I made some boundaries of my own and I felt like she couldn't believe I was standing up to her. 
+She was already moving on. It felt like I couldn't catch my breath or get a break anywhere I turned — sometimes it felt like she was actively trying to break me. She **was done** delaying or postponing *anything* to preserve my feelings. She could not possibly be any clearer about that. I made some boundaries of my own and I felt like she couldn't believe I was standing up to her. I was angry that she had this expectation that even though I was no longer invested in those aspects of her life, I was expected to just happily go along with this shit at my expense.
 
-I had decided that our marriage ending was not going to be something that happened to me. I knew I couldn't save it and by then I didn't even want to. But I knew that *I was going to show up*, and I was **not** going to continue to watch it all happen to me from the bottom of a well that I had fallen into twenty goddamned years ago. 
+I had decided that our marriage ending was not going to be something that happened to me. I knew I couldn't save it and by that point, I didn't even want to. But I knew that ***I was going to show up***, and **I was not going to continue to watch it all happen to me from the bottom of a well that I had fallen into twenty goddamned years ago.**
 
-Nope.
+Nope nope nope nope.
 
 ## An Excursion in Philadelphia
 
-I had a plan. It was risky and could easily get away from me if I wasn't careful, but I knew what to do. I made plans to fly to Philadelphia and see one of my best friends who would babysit me for at least eight hours.
+I hatched a plan. It was risky and could easily get away from me if I wasn't careful, but I knew what to do. I made plans to fly to Philadelphia and see one of my best friends who would babysit me for at least eight hours.
 
 <figure>
 	<a href="/assets/images/2017/march/2017-03-04-tripping.jpg" class="fancybox" rel="gallery">
@@ -127,17 +131,19 @@ I had a plan. It was risky and could easily get away from me if I wasn't careful
     <figcaption>"With eyes so dilated, I've become her pupil."</figcaption>
 </figure>
 
-I often felt like the pain and loss I was feeling hunted me and stalked me. It would overtake me when I was alone in the house or in my car and sometimes I would plead with it to leave me alone and let go of me. I was being devoured by it so messily and it wasn't ever going to stop. It was this endless torment that chased me everywhere I went and I couldn't get any distance between myself and the grief that had my scent.
+I often felt like the pain and loss I was feeling hunted me and stalked me. It would overtake me when I was alone in the house or in my car and sometimes I would plead with it to leave me alone and let go of me. I was being messily devoured by it, and it wasn't ever going to stop. It was this endless torment that chased me everywhere I went, and I couldn't get any distance between myself and the grief that had my scent.
 
-There was a moment that day in Philadelphia where I was completely wide open with nowhere to hide. I asked this painful feeling, why? Why is this happening? And what is going to happen to me? 
+There was a moment that day in Philadelphia where my aperture was wide open, and I had nowhere to hide. I asked this painful feeling that followed me, why? Why is this happening? And what is going to happen to me? 
 
-Only more uncertainty was the response. It wouldn't stop, it was relentless, and I couldn't get away from it. I begged it to let go of me. Over and over again: *let go, let go.* And in my head in that moment the sound of the voice changed, and it wasn't me saying it anymore. It was Liz. She wasn't angry, and she didn't sound hurt. She was urging me though, to let go. *To let her go*. ***To let her go, because she was already gone.***
+Only more uncertainty was the response. It wouldn't stop, it was relentless, and I couldn't get away from it. I begged it to let go of me. Over and over again: *let me go, let go of me.* And in my head in that moment the sound of the voice changed, and it wasn't me saying it anymore. It was Liz. My wife. She wasn't angry, and she didn't sound hurt. But she was urging me to let go. *To let her go*. ***To let her go, because she was already gone.*** Fuck.
 
 ### Already Gone
 
-In my mind I sliced my hand like a blade through the mooring lines of memories and aspirations. The hopes and dreams and disappointments and everything in-between were now severed, and we could shrug it all off. Something really beautiful happened in the silence of that room while I caught my breath and finally felt some peace.
+Oh yeah? Well fine: in my mind I sliced my hand like a blade through the mooring lines of memories and aspirations. The hopes and dreams and disappointments and everything in-between were now severed, and we could shrug it all off. Something beautiful happened in the silence of that room while I finally caught my breath and felt some peace for the first time in months.
 
-I cut her free. I cut *myself* free. But there was something that could not be cut. I could see Liz in the distance, now unfettered, but there was a wire between us that remained. On that wire, strung up like little paper dolls between us, were our children. 
+I cut her free. I cut *myself* free. But there was something unexpected that remained. I could see Liz in the distance, newly unfettered, but there was a wire visible between us. 
+
+On that wire, strung up like little paper dolls between us, were our children. 
 
 <figure>
 	<a href="/assets/images/2017/march/2017-03-04-tripmirror.jpg" class="fancybox" rel="gallery">
@@ -145,13 +151,13 @@ I cut her free. I cut *myself* free. But there was something that could not be c
 	<figcaption>We can't stop here. This is bat country.</figcaption>
 </figure>
 
-For weeks I was so afraid of losing something. It felt like everything. But I didn't even know that I was afraid of losing something I no longer even had. It instantly reframed everything and I was suddenly not in the midst of an existential crisis because my marriage was ending. All that mattered to me at that point was that we were family for the rest of our lives, and that I needed to figure out what kind of family I wanted that to be as quickly as possible, because I had a lot of work to do.
+For weeks I was so afraid of losing *something*. It felt like **everything**. But I didn't even know that *I was afraid of losing something I no longer even had.* It instantly reframed **everything** and I was suddenly not in the midst of an existential crisis because my marriage was ending! All that mattered to me at that point was that we were family for the rest of our lives, and that I needed to figure out what kind of family I wanted that to be as quickly as possible, because I had a lot of work to do.
 
 There may have been several epiphanies that day. Among them, I came to terms with probably never having a Great Love like Liz again. It just seemed so impossible to consider ever letting anyone back into my heart like that again. If I had my one chance at a Great Love and I blew it, that would be a valuable lesson to not take things for granted.
 
 # Mercifully Shattered
 
-I was calm, and at peace. Yet, I had been shattered. Completely shattered into a million pieces, and it was the most terrible thing that ever happened, but it was also the best thing that ever happened. It would be what allowed me to someday soon feel the best I've ever felt and be the best I've ever been. I had built a dense impenetrable shell around me that couldn't be removed, and the only way to escape from it was to smash it all to pieces to be rebuilt with gold. [^kintsugi]
+Finally, I was calm, and at peace. I had been shattered. Shattered into a million pieces; and it was the most terrible thing that ever happened to me, but it was also the best thing that ever happened to me. It would be what allowed me to someday soon be the best I've ever been. I had built a dense, impenetrable shell around me that couldn't be removed, and the only way to escape from it was to smash it all to pieces so that it could be rebuilt with gold. [^kintsugi]
 
 <figure>
 	<a href="/assets/images/kintsugi-square-l.jpg" class="fancybox" rel="gallery">
@@ -163,21 +169,21 @@ I was calm, and at peace. Yet, I had been shattered. Completely shattered into a
 
 Having finally arrived at *acceptance*, I was going to leave Philadelphia freshly shattered, serene, and at peace with the knowledge that I may not ever fall in love again — and that everything was still going to be alright. I was really grateful that everything went as perfectly as it could have that weekend and I felt safe and secure for the first time in, well, decades.
 
-I was right on time; therefore I was right on time to cross paths with someone that would be the gold that binds my pottery back together again. It's *kismet*. She'd start at my heart and work her way outward from there, and she would do it with precision and ease. The things I never wanted to let myself wish for ever again, the things that I felt like it must be wrong for me to want and even worse to need? They are the very things that come so easily to her. She is generous, and she is radiant, and her hair is unfair. Her name is Tracey. 
+**I was right on time.** And more importantly, I was right on time to cross paths with someone that would be the gold that binds my pottery back together again. It's *kismet*. Destiny. She'd start at my heart and work her way outward from there, and she would do it without my guidance, and with precision and ease. Those things I never wanted to ever wish for again, the things that I felt like it must be wrong for me to want and even worse to need? They are the exact same things that come so easily to her. She is generous, and she is radiant, and her hair is unfair. Her name is Tracey. She gives me everything I ever wanted and then she gives me more. 
 
-I will soon be wildly head-over-heels in love with her.
+I will soon be wildly head-over-heels in love with her. And she easily and readily loves me in a way that is [*All I Ever Wanted*](http://ephemeral.be/albums/hearts/content/all-i-ever-wanted-love-sick/), ***and then some***.
 
 # Getting Better
 
-My therapy is making huge inroads. I have some real breakthrough moments that I've never experienced before. I am becoming more *self-lead*, as my therapist says. Like she predicted, my writing improves and more importantly, my photography improves. When I ask Mari about this at one point she tells me that she can see a change also, and she explains it as my best work lately is much less self-aware and less technical. That I'm shooting from my gut. Finally. **Finally!**
+My therapy is making inroads. I have some real [breakthrough moments](https://incumbent.org/post/therapy-methods-ifs/) that I've **never** experienced before. I am becoming more *self-lead*, as my therapist says. Like she predicted, my writing improves and more importantly, my photography improves. When I ask Mari about this at one point she tells me that she can see a change also, and she explains it as my best work lately is much less self-aware and less technical. That I'm shooting from my gut. Finally. **Finally!**
 
 This was one of the things that I was able to admit to myself before I could allow myself to think I was making improvements. It was evident to me in my work, and I saw it. I still needed a trusted observer to fill in the gaps for me, but I felt vindicated. I felt like I was improving. *I felt like for the first time in twenty years, I was getting better.*
 
-A month later in our therapist's office I would say that I felt like I couldn't let myself accept happiness. I'd say that I was afraid that my happiness was a symptom, an artificial echo of happiness that my brain built for me to further deceive me right before it tightened a noose around my neck and lowered me further into new darkness. I had manic episodes before that lifted my mood for a few days only to crash even harder, but Liz shook her head before I could finish the sentence and she would tell me she has seen what I was talking about before, but that this wasn't it. In fact, she would say that she's **never** seen me this happy and content, not since we met. I was filled with relief and gratitude. Then I'd tell Liz that I would not have been brave enough to ever end our marriage, and that I was grateful she was able to start this process. And then she was filled with relief and gratitude too. We were both finally settling into our new relationship, and we were both trusting each other again.
+A month later in our therapist's office I would say that I felt like I couldn't let myself accept happiness. I'd say that I was afraid that my happiness was a symptom, an artificial echo of happiness that my brain built for me to further deceive me right before it tightened a noose around my neck and lowered me further into new darkness. I had manic episodes before that lifted my mood for a few days only to crash even harder, but Liz shook her head before I could finish the sentence and she would tell me she has seen what I was talking about before, but that this wasn't it. In fact, she would say that she's **never** seen me this happy and content, not since we met. I'm awash with relief and gratitude. Then I'd tell Liz that I would not have been brave enough to ever end our marriage, and that I was grateful she was able to start this process. And then I saw the relief and gratitude pour out from her. We were both finally settling into our new relationship, **and we were both trusting each other again**.
 
 ## Momentum
 
-Our house sold in a day. It sold the day I was in Philadelphia and engaged in my fantastic voyage and en route to being shattered. We accepted an offer and were under contract and began looking for places of our own. We hadn't yet talked to our children about our divorce, but Calvin wasn't even two years old until July, so he's pretty much rolling with life and doesn't really have a well-constructed reality yet. He is the same age I was when my parents divorced, and I had a lot of anxiety and concerns about all of this. 
+Our house sold in a day. It sold while I was in Philadelphia and engaged in my fantastic voyage and was en route to being shattered. Eric helps me out a little bit through the Docusign process in my altered condition, and we accepted an offer, so we are finally under contract, and soon began looking for places of our own. We hadn't yet talked to our children about our divorce, but Calvin wasn't even two years old until July, so he's pretty much rolling with life and doesn't exactly have a well-constructed reality yet. He is the same age I was when my parents divorced, and I had a lot of anxiety and concerns about this. 
 
 We talked to Prudence about our divorce at dinner one night, and I was so afraid of making her sad or being anxious about this, but she was remarkably resilient. The things she found interesting were that she'd have two bedrooms, and two houses, and that she and her brother would spend time living in both of them. This was a little strange for her to wrap her head around, but she didn't seem too concerned about the part where her parents weren't going to be married. Our circumstances were different than some, so there was no weird conversation about the nature of love because Liz and I still love each other. It is a decidedly different love than it was, say, two years ago, but we love our children and each other and our family is going to change in a lot of ways but it's going to be the same in others. 
 
@@ -185,11 +191,11 @@ Ultimately it will become clear to me that **it is going to be better**, because
 
 ### The Details
 
-We decide our attorneys are expensive enough and that we can bang out most of our settlement and parenting plan with a mediator, who is also a therapist and is exceptionally adept at facilitating this for the two of us. It's actually quite easy deciding how we are going to raise our children.
+We decide our attorneys are expensive enough and that we can bang out most of our settlement and parenting plan with a mediator, who is also a therapist and is exceptionally adept at facilitating this for the two of us. It's easy deciding how we are going to raise our children.
 
 We have property spreadsheets where we make decisions on who-gets-what. I'm reading books on co-parenting and I don't find it so obnoxious anymore because it's exactly what we are doing. I'm finally feeling optimistic and ready to embrace this transition. 
 
-Early in this process my friend Mari told me something I'll never forget about her own divorce. She told me that she's as proud of her divorce as she was her marriage. She tells me that she's a a better parent because of it, and in hindsight I can tell you that I feel exactly the same way. It was one of those things I found so unlikely when I first heard it; but she knew that I could get to the other side of this and that something really great was waiting for me on the other end. I had to have faith in that, and that's the sort of thing that never comes easily for me, especially when there are saboteurs that have taken up residency in my brain for twenty years telling me that things will only get worse.
+Early in this process my friend Mari told me something I'll never forget about her own divorce. She told me that she's as proud of her divorce as she was her marriage. She tells me that she's a better parent because of it, and in hindsight I can tell you that I feel exactly the same way. It was one of those things I found so unlikely when I first heard it; but she knew that I could get to the other side of this and that something really great was waiting for me on the other end. I had to have faith in that, and that's the sort of thing that never comes easily for me, especially when there are saboteurs that have taken up residency in my brain for twenty years telling me that things will only get worse.
 
 I write *vows* for our divorce into our parenting plan. They read:
 
@@ -203,7 +209,7 @@ Our optimism isn't unfounded. We know there will be hiccups and conflicts from t
 
 We have until the end of May when the buyers close on our house, so we scramble to figure out where we will each be living. I hold off a bit to see where Liz ends up, because our therapist recommends avoiding any disparities in households.
 
-After Liz's offer is accepted and then obnoxiously rescinded on one house, she locks a different one down. I am kind of crunched for time and afraid I'll be unable to find something I want to own until I come across a house that is ready to roll and I know it can be quickly closed. The whole deal takes less than 23 days. At the end of May our children go spend a week with my parents, and Liz and I leave the house we bought together a year before.  We are now settling into our own separate households and I'm driving to Target three times a day for things like new towels. 
+After Liz's offer is accepted, and then obnoxiously rescinded, on one house, she locks a different one down. I am kind of crunched for time and afraid I'll be unable to find something I want to own until I come across a house that is ready to roll and I know it can be quickly closed. The whole deal takes less than 23 days. At the end of May our children go spend a week with my parents, and Liz and I leave the house we bought together a year before.  We are now settling into our own separate households and I'm driving to Target three times a day for things like new towels. 
 
 We started our proposed shared custody arrangement, and our children see both of us every day except on weekends. We occasionally do something together, all four of us, and they've always gone smoothly and are pretty fun. The kids like having both of us on-hand, and . So far there has been only one instance where Prudence expressed some concern or anxiety about our divorce and it was something Liz was able to address easily and it hasn't come up since. We don't discourage our children from talking about the other parent or anything, and we both respect and love each other so there isn't a lot of tension and there certainly isn't any weirdly inappropriate manipulation of our children going on. I know there are some parents that are separated or divorced that coach their children to ask specific questions of the other parent, or outright lie to them about their own divorce and what the other parent is doing. It's fucking pathetic and sad and I don't care how bitter you are about a divorce there is absolutely zero justification to abuse your children like that. 
 
@@ -211,25 +217,27 @@ Calvin likes that there's a picture of his big sister at the top of the stairs w
 
 Miraculously, we are pulling this off. Since January I feel like I've lived ten lifetimes. I have been utterly defeated and wrecked by a relationship ending all around me, suffered what can only be described as a complete and categorical rejection, and somehow I am nearing the other side of this and I feel great. When Liz first uttered the phrase "collaborative divorce", I thought she was out of her goddamned mind, but here we are. Our children are happy, and thriving, and Liz and I are doing the same. I feel like the jump to Kindergarten will be tough on Prue, but not because of our divorce. Liz and I wound up getting houses within .25 miles of each other, and we're also both .25 miles from the elementary school. We are close, *but not too close*. We still have some practical and organizational things to get sorted out, but we have been doing this now for a few months without much headache. 
 
-We are not yet divorced, but are now sewing up our agreement and getting everything ready for judges to sign off on. I don't think either of us is in a huge hurry to be done with it already, but we are both certain this is the right thing to do. I think we will probably be officially divorced by October, and not a lot will be different from it is right now.
+We are not yet divorced, but are now sewing up our agreement and getting everything ready for judges to sign off on. I don't think either of us is in a hurry, but we are both certain this is the right thing to do. I think we will probably be officially divorced by October, and not a lot will be different from it is right now.
 
-To top it all off, as we've been working all this out, *our hearts are not irrevocably damaged by this after all,* but that's only partially my story to tell and I'm sure I'll have plenty to say about it soon.
+It is nice to realize that *our hearts are not irrevocably damaged by this after all,* but that's only partially my story to tell. 
 
-# So What
+# So What?
 
-Before you find yourself asking what this has to do with mental health, I'd like to say go fuck yourself. This entire series of events would absolutely have me chained to a goddamned hospital bed nine months ago. Were it not for my actual *team* of therapists, the partial hospital program, my med manager, my BFFs: Eric and Mari, Albert Hoffman, and some musical selections, I'd probably be dead. I'm not even kidding. Dead.
+Before you find yourself asking what this has to do with mental health, I'd like to say *go fuck yourself*. This entire series of events would have me chained to a goddamned hospital bed nine months ago. Were it not for my actual *team*, lol, of therapists, the partial hospital program, my med manager, my BFFs: Eric and Mari, Albert Hoffman, Tracey, and some crucial musical selections, I'd probably be dead. I'm not even kidding. Dead.
 
-This has been a very chaotic few months, and I am now (end of July, 2017) starting to get ready to make another run at the next cluster of problematic parts in therapy. I've had some complications over the last two months and I'm worried that I'll start to backslide. I have the right structure in place to support me, but as you may have figured out by now, I don't do easy. I have some tricky navigation to do and I've been delaying it as much as possible because I have just been so grateful to have a victory or three for a change! After having so much of my life be a series of emergencies that I retreat from, finally seeing myself actually improve in measurable ways has been worth celebrating.
+This has been a very chaotic few months, and I am now (end of July, 2017) starting to get ready to make another run at the next cluster of problematic parts in therapy. I've had some complications over the last two months and I'm worried that I'll start to backslide. I have the right structure in place to support me, but as you may have figured out by now, I don't do easy. I have some tricky navigation to do and I've been delaying it as much as possible because I have just been so grateful to have a victory or three for a change! After having so much of my life be a series of emergencies that I retreat from, finally seeing myself improve in measurable ways has been worth celebrating.
 
 ## Having said that
 
-Now it's time to leave the party and get back to work.
+Now it's time to leave the party and get back to work. I have allowed myself to enjoy a period of comfortable ease, but I know I can't coast on this forever.
 
 ---
 
-## Radical Divorce
+## Totally Radical Divorce
 
-One of the better sources of inspiration when I was especially confused was [Radical Divorce](https://radicaldivorce.com) which is the product of a friend of a friend. I really liked what I read there and it was the source of some optimism that I sometimes wasn't ready for, but eventually got there.
+One of the better sources of inspiration I had available was [Radical Divorce](https://radicaldivorce.com) which is the product of a friend of a friend. I liked what I read there and it was the source of some optimism that I sometimes wasn't ready for, but eventually got there. (Thanks, Kristina! \<3)
+
+---
 
 <div class="notice--warning">
 <h4>Part Three</h4>

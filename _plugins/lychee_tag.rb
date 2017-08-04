@@ -60,7 +60,7 @@ super
 @big_url = @config['url'] + "/"
 @album_id = @params
 # initialize caching
-@cache_disabled = false
+@cache_disabled = true
 @cache_folder = File.expand_path "../#{@config['cache_folder']}", File.dirname(__FILE__)
 FileUtils.mkdir_p @cache_folder
 end

@@ -14,10 +14,6 @@ main:
     url: /contact/
   - title: "Castings"
     url: /casting/
-  - title: "Terms"
-    url: /terms/
-  - title: "Sitemap"
-    url: /sitemap/
 
   # - title: "Sample Posts"
   #   url: /year-archive/

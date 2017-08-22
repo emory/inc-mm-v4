@@ -2,18 +2,16 @@
 main:
   - title: "About"
     url: /about/
-  - title: "@Now"
-    url: /now/
-  - title: "Featured Articles"
-    url: /articles/
-  - title: "I've Been Sad"
+  - title: "Sad"
     url: /sad/
   - title: "Cool Kids"
     url: /coolkids/
-  - title: "Contact"
-    url: /contact/
+  - title: "Featured"
+    url: /articles/
   - title: "Castings"
     url: /casting/
+  - title: "Contact"
+    url: /contact/
 
   # - title: "Sample Posts"
   #   url: /year-archive/

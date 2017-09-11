@@ -2,31 +2,29 @@
 layout: single
 title: "band"
 date: 2017-09-08
-last_modified_at: 2017-09-10 13:00:00
+last_modified_at: 2017-09-11 10:03:00
 tags: [poem, written, love]
-excerpt: "Upon finding a hair band on my dresser, a memory."
+excerpt: "Upon finding a hair band."
 header:
   overlay_color: "#123456"
 ---
-# band
-
-on my dresser (glass<br />
-of water) i found an<br />
-elastic band (nearly<br />
+on my dresser <i>(glass <br />
+of water)</i> i found an<br />
+elastic band <i>(nearly <br />
 in-<br />
-visible)<br />
+visible)</i><br />
 that mere days ago <br />
 held<br />
-your hair 
+your hair <br />
 and <br />
-i held it in my hand<br />
-to imagine <br />
+i stared at it<br />
+in my palm,<br />
+to imagine,<br />
 and re-<br />
-member<br />
+member,<br />
 your hair<br />
-in my face<br />
-when<br />
-your delirium<br />
+in my face <br />
+<i>when <br />
+your delirium <br />
 set<br />
-in. <br />
-
+in.</i><br />

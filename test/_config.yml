@@ -146,6 +146,10 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Liquid
+strict_front_matter: true
+liquid:
+  error_mode: strict
 
 # Conversion
 markdown: kramdown
@@ -180,7 +184,11 @@ paginate_path: /page:num/
 timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
+<<<<<<< HEAD
 # Plugins
+=======
+# Plugins (previously gems:)
+>>>>>>> mmistakes/master
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -247,3 +255,37 @@ defaults:
       comments: # true
       share: true
       related: true
+<<<<<<< HEAD
+=======
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _recipes
+  - scope:
+      path: ""
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _pets
+  - scope:
+      path: ""
+      type: pets
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+>>>>>>> mmistakes/master

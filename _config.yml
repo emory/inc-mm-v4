@@ -82,9 +82,9 @@ author:
   name             : "Emory Lundberg"
   avatar           : "/assets/images/bio-photo-sea-sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Renaissance man eagerly awaiting the next Renaissance."
-  location         : "CID, PHL, DCA"
+  location         : "CID, PHL"
   email            : # emory@hellyeah.com
-  uri              : # https://incumbent.org
+  uri              : https://incumbent.org/ # https://incumbent.org
   bitbucket        :
   codepen          :
   dribbble         :
@@ -92,15 +92,16 @@ author:
   facebook         : incumbent
   foursquare       :
   github           : emory
-  google_plus      : # +EmoryL
+  gitlab           :
+  google_plus      : 
   keybase          : emory
-  instagram        : # incumbent
+  instagram        :
   lastfm           :
-  linkedin         :
-  pinterest        : # incumbent
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            : # TobiasIsQueenMary
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : incumbent
   vine             :
@@ -180,8 +181,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
-# Plugins
+# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

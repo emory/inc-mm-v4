@@ -27,6 +27,14 @@ feature_row2:
     url: /post/completely-mental-part-two/
     btn_label: "Get Some Meds"
     btn_class: "btn--danger"
+feature_row3:
+  - image_path: /assets/images/kintsugi-wide-sm.jpg
+    alt: "Kintsugi"
+    title: "Chapter 3: No Thirteenth"
+    excerpt: "Shattered into a million pieces."
+    url: /post/completely-mental-part-three/
+    btn_label: "Be Shattered"
+    btn_class: "btn--danger"
 #feature_row3:
 #  - image_path: /assets/images/inside-out-group.jpg
 #  title: "How IFS Has Been Working (For Me)"
@@ -39,7 +47,9 @@ sidebar:
 
 {% include feature_row id="feature_row2" type="right" %}
 
-# Gathered:
+{% include feature_row id="feature_row3" type="left" %}
+
+# The Great Depression
 
 {% for post in site.categories.depression %}
   {% include archive-single.html type="grid" %}

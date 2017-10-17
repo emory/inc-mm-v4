@@ -6,7 +6,7 @@ permalink: /res/fujifilm-x100f-resources/
 published: true
 title: Fujifilm X100F Resource Page
 date: '2017-01-25'
-modified: '2017-03-16'
+modified: '2017-10-07 10:55:41'
 categories: [pages, photography, resources]
 tags: 
   - pages
@@ -53,6 +53,8 @@ Induce your own lightbulb moment with these illuminating tips and tricks.
 * The ACROS film mode is stunning, I'm using RAW+JPEG and usually using ACROS or Chrome and actually using the JPEG files it generates more than the RAW files.
 * ISO dial is welcome.
 * There will no doubt be several books written for this cameras, as there are many fantastic books and guides for it's predecessors.
+
+* Thomas Fitzgerald wrote post about [How he shoots with his X-Pro2](http://blog.thomasfitzgeraldphotography.com/blog/2017/10/how-i-shoot-with-my-x-pro-2) and a lot of his notes on how he adjusts exposure and calls out the way the EVF can be misleading are relevant to the X100F.
 
 ## Post-Processing and Software
 

@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Sad"
-    url: /sad/
-  - title: "Cool Kids"
-    url: /coolkids/
   - title: "Featured"
     url: /articles/
+  - title: "Cool Kids"
+    url: /coolkids/
+  - title: "Sad"
+    url: /sad/
   - title: "Castings"
     url: /casting/
   - title: "Contact"
@@ -26,22 +26,9 @@ home:
     url: /now/
   - title: "Featured Articles"
     url: /articles/
-    children:
-      - title: "I've Been Sad"
-        url: /sad/
-  - title: "Resources"
-    children:
-      - title: "So You've Got a Cool Kid"
-        url: /coolkids/
-      - title: "Fujifilm X100F Tips"
-        url: /res/fujifilm-x100f-resources/
-      - title: "Fujifilm X100S Tips"
-        url: /pages/fujifilm-x100s-resources/
   - title: "Creative"
     children:
       - title: "Verse"
         url: /poems/
       - title: "Castings"
         url: /casting/
-  - title: "Collected"
-    url: /collection-archive/

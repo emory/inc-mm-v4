@@ -84,9 +84,9 @@ author:
   name             : "Emory Lundberg"
   avatar           : "/assets/images/bio-photo-sea-sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Renaissance man eagerly awaiting the next Renaissance."
-  location         : "CID, PHL"
+  location         : "CID & PHL"
   email            : # emory@hellyeah.com
-  uri              : https://incumbent.org/ # https://incumbent.org
+  uri              : # https://incumbent.org/ # https://incumbent.org
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : incumbent
+  twitter          : #incumbent
   vine             :
   weibo            :
   xing             :

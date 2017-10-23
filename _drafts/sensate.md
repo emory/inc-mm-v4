@@ -5,6 +5,7 @@ date: 2017-09-14
 last_modified_at: 2017-09-15
 tags: [poem, written, love]
 excerpt: "I call to sleep, but sleep it won't come to me."
+collection: poems
 header:
   overlay_color: "#123456"
 ---

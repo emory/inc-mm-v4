@@ -27,6 +27,4 @@ each other.<br />
 <br />
 it’s all i want to do,<br />
 mine;<br />
-be yours,<br />
-and<br />
-yours alone<br />
+*be yours.*<br />

@@ -3,20 +3,21 @@ layout: archive
 title: "now@emory"
 permalink: //now/index.html
 date: 2017-05-01
-last_modified_at: 2017-10-17 11:53:25
+last_modified_at: 2018-01-18 19:51:57
 excerpt: "WTF is Emory doing?"
 share: true
 sidebar:
   nav: "home"
+toc: true
 ---
 
 {% include toc.html %}
 
 ## Firstly
 
-I'm *still* (2017-10-17) in the middle of a (collaborative) divorce after 12 years of marriage. 
-The Estranged and I are wrapping up a couple of details and we may be filing within a couple of 
-weeks. 
+I am, as of January 17, 2018, divorced.
+
+The Estranged Dr. Lundberg and I are still doing things our own way and it's been something I am proud of.
 
 ### In General
 
@@ -25,7 +26,7 @@ weeks.
 
 ## Work
 
-- I'm leaving the University of Iowa and start working for Auth0 at the end of October. I'm super excited!
+- I am the Principal Security Engineer for Auth0 and am obsessively preoccupied with our security operations team.
  
 ### Other Efforts
 

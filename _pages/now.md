@@ -13,28 +13,28 @@ toc: true
 
 {% include toc.html %}
 
-## Firstly
+# Firstly
 
-I am, as of January 17, 2018, divorced.
+- I am, as of January 17, 2018, divorced.
+- The Estranged Dr. Lundberg and I are still doing things our own way and it's been something I am proud of.
 
-The Estranged Dr. Lundberg and I are still doing things our own way and it's been something I am proud of.
-
-### In General
+## In General
 
 - My garage still has a metric assload of crap in it and no room for a car. 
-- I have taken my kids on two road trips exceeding 3 hours in the car and I survived.
+- I have taken my kids on two road trips exceeding 4 hours in the car and we survived.
+- I am considering hiring one of those profesional organizers to come over and un-fuck my house.
 
-## Work
+# Work
 
 - I am the Principal Security Engineer for Auth0 and am obsessively preoccupied with our security operations team.
  
-### Other Efforts
+## Other Efforts
 
 - I posted an intermission episode of [the hellyeah! show](http://show.hellyeah.com/) just to say "hi".
 - Therapy is going well, so generally I'm doing well. 
-- I am pleased to report that my heart isn't damaged in any lasting way by my divorce; I'm madly in love and it's all kinds of amazing.
+- I am pleased to report that my heart isn't noticeably damaged in any persistent way following the events of 2017.
 
-## Free/Busy
+### Free/Busy
 
 * You can see the Free/Busy status of [My Personal Calendar](https://calendar.google.com/calendar/ical/emory%40hellyeah.com/public/basic.ics) but be aware this doesn't include my Free/Busy on campus, nor my travel calendar.
 

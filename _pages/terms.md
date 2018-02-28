@@ -3,7 +3,7 @@ layout: single
 title: "The Terms of our Relationship"
 permalink: /terms/
 date: 2015-05-06
-last_modified_at: 2017-07-03 11:21:50
+last_modified_at: 2018-02-28 08:36
 excerpt: "Terms & Conditions, No Obligation, Operators are Standing By"
 share: false
 ---
@@ -20,11 +20,11 @@ At this website the privacy of my visitors is extremely important. This Privacy 
 
 First and foremost, I will never share your email address or any other personal information supplied to me to anyone without your direct consent. 
 
-As of 2017-07-03 I have not received a request for any information about readers or visitors to this website from any law enforcement agency or officer of the court.
+As of 2018-02-28 I have not received a request for any information about readers or visitors to this website from any law enforcement agency or officer of the court.
 
 ### Keybase Signed Canary
 
-    BEGIN KEYBASE SALTPACK DETACHED SIGNATURE. kXR7VktZdyH7rvq v5weRa8moJ413jG n2CYXx0DPS2tPSv a2cYx4mqJ9XJ1ES cU7RCK9AWXImthk PUkAFtluEcIB0vB lXMmnvA32ib9X3W lCdtr2yYjoSIX3B 88tPMMdGoX9rXEk 5NBvshd8vZP1TYG zJJTcNLUPikev2L Xk98Tz503p34P42 d. END KEYBASE SALTPACK DETACHED SIGNATURE.
+    BEGIN KEYBASE SALTPACK DETACHED SIGNATURE. kXR7VktZdyH7rvq v5weRa8moZT87g5 JVRXuyaJ5SGzi7e WmWtIdxonnEbDgc QF0mbSNXNvWP1jh DhuXQnPh9blhTc2 4jsR6GJdDKwF4SU Ncqb1wbQVkBbQPm ZjvRclOf6Jxbwzn D7wX3j66xrT9UXK DqwiRmnMR7O27pY HCcHs510iYeu758 w. END KEYBASE SALTPACK DETACHED SIGNATURE.
 
 You may download this from my `files` directory, [terms.md.sig](https://incumbent.org/files/terms.md.sig) and the current version of this page is probably in the git repository on Github that I shove code into (`inc-mm-v4`).
 

@@ -29,7 +29,7 @@ With the Internet's own [Alan Joyce](http://thisisalan.com/) I sometimes co-host
 
 ## Socialism
 
-I sometimes dabble in <a href="https://plus.google.com/+EmoryL">Google+</a>, occasionally <a href="http://facebook.com/incumbent/">Facebook</a>, very rarely find my way to the [twitter machine](http://twitter.com/incumbent) because it's a head-wound waiting to happen `#headdesk` —  sometimes I'm seen using [ADN](http://app.net/emory/), which has been a very unfortunate exercise in great expectations. I am interested in just about any social or messaging service and try them all at least once. Eventually we'll get something as useful as `finger` and `zephyr` after the billions of dollars in venture capital have failed to deliver us from terminals, right? 
+I sometimes dabble in <a href="https://plus.google.com/+EmoryL">Google+</a>, occasionally <a href="http://facebook.com/incumbent/">Facebook</a>, very rarely find my way to the [twitter machine](http://twitter.com/incumbent) because it's a head-wound waiting to happen `#headdesk`. I am interested in just about any social or messaging service and try them all at least once. I'm considering playing around with [Mastodon](https://joinmastodon.org/) now and then. Eventually we'll get something as useful as `finger` and `zephyr` after the billions of dollars in venture capital have failed to deliver us from terminals, right? 
 
 You may also find me on [flickr](http://flickr.com/photos/sempai), but I generally treat it like a high-res [instagram](http://instagram.com/incumbent). Lately I've been keeping an eye on [VSCO Grid](http://ephemory.vsco.co/) and [oggl](http://oggl.me/emory/), too. I even have a page on [ello](http://ello.co/kvetch)!
 
@@ -41,15 +41,15 @@ I'm also working on a few photography projects that I'm likely forever [casting]
 
 I am also, of course, thinking about writing a script with my wife for a television pilot. It's about us, but maybe a more glamorous us. 
 
-**Professionally** I'm working on multi-factor authentication, device management, and host integrity monitoring. I am also tinkering in the lab with location services, mobile applications, accessible encryption, and personal publishing. I have the dubious distinction of being listed as an inventor on a patent for an authenticated content syndication system that was gently paired with RSS/atom and OpenID. 
+**Professionally** in my new (as of November 2017) role as Auth0's Principal Security Engineer, I'm working on cloud security architectures, operations management in a dev-ops environment, and generally approaching decades of old already-solved problems again, with new and very different constraints. Incident response and forensics are very different concepts these days!
+
+I am also tinkering in the lab with location services, mobile applications, accessible encryption, and personal publishing. I have the dubious distinction of being listed as an inventor on a patent for an authenticated content syndication system that was gently paired with RSS/atom and OpenID. 
 
 I did the technical review for a few O'Reilly books on OS X and smartphones, and wrote half of one myself that was never released but still lives on Amazon's Canadian site for some reason. 
 
 ## Work & Availability
 
-My consulting practice, [due\|vigilance](http://duevigilance.com/), is where you can learn more about my consulting services. At the time of this writing, I'm not taking new clients for assessments or long-term engagements. I'm taking a bit of a sabbatical and have been spending time with my kids, catching up on my reading, and working on being a better photographer in order to get away from keyboards now and then. It's the luxury of doing it on the side in that I can be very selective about who I work with after the children are in bed.
-
-**I am, however, very *available* for script review** on creative projects for the web, paper, television and film. If you're working on a project that could benefit from some experise on the *seedy underbelly of the Internet*, please tell me all about it. I would love to give your project some extra authenticity without losing your audience in the process. I can make very complex things approachable by non-nerds, and yet relevant in a way even the most grizzly neckbeard can appreciate.
+My consulting practice, [due\|vigilance](http://duevigilance.com/), is where you can learn more about my consulting services. At the time of this writing, I'm not taking clients for technical or security engagements, **I am, however, very *available* for script review** on creative projects for the web, paper, television and film. If you're working on a project that could benefit from some experise on the *seedy underbelly of the Internet*, please tell me all about it. I would love to give your project some extra authenticity without losing your audience in the process. I can make very complex things approachable by non-nerds, and yet relevant and accurate enough for even the most grizzly of neckbeards.
 
 ## Contact
 
@@ -67,7 +67,7 @@ Very well, 007. You're catching me a little off-guard right now because I've bee
 
 #### OpenPGP, GNUpg, PGP
 
-My public key [<span class="fa fa-lock"></span> 4096/7EEB0403](/files/7EEB0403.asc) is available direct from me, the keyservers you already use, or [Keybase](http://keybase.io/emory). Nothing too weird about this and if you use gnupg already nothing unusual about this at all and go on doing what you do.
+My public key [<span class="fa fa-lock"></span> 4096/7EEB0403](/files/7EEB0403.asc) is available direct from me, the keyservers you already use, but **most authoritatively** on [Keybase](http://keybase.io/emory).
 
 *Please note that I don't have a trustworthy way to view gnupg signatures or decrypt gnupg encrypted email when I'm not at my desk.*
 

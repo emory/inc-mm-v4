@@ -36,5 +36,5 @@ toc: true
 
 ### Free/Busy
 
-* You can see the Free/Busy status of [My Personal Calendar](https://calendar.google.com/calendar/ical/emory%40hellyeah.com/public/basic.ics) but be aware this doesn't include my Free/Busy on campus, nor my travel calendar.
+* You can see the Free/Busy status of [My Personal Calendar](https://calendar.google.com/calendar/ical/emory%40hellyeah.com/public/basic.ics) but be aware this doesn't include my Free/Busy at work, nor my travel calendar.
 

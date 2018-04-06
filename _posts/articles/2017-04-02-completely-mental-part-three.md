@@ -26,7 +26,7 @@ should have killed me, so that I'd never have to know.**</big>
 
 <div class="notice--danger">
 <h4>Buckle up</h4>
-<p>First of all I'd just like to say that this is the hardest part of this series that I've written yet. I started to write this a year ago, in April, 2017, but I couldn't have written it then. Not like how it was eventually writteen. Over the course of that year, various drafts were made available to people that either have gone through this sort of thing, or were invested in the outcome in a positive way. I considered any feedback given to me in subsequent revisions and appreciate the encouragment I received, but <b>the words are entirely my own</b>.<br /><br />A lot has happened between January 2017 and April 2018, and I'll do my best to make sense of it all as we go.<pre><4</pre></p></div>
+<p>First of all I'd just like to say that this is the hardest part of this series that I've written yet. I started to write this a year ago, in April, 2017, but I couldn't have written it then. Not like how it was eventually published, at any rate. Over the course of that year, various drafts were made available to people that either have gone through this sort of thing, or were invested in the outcome in a positive way. I considered any feedback given to me in subsequent revisions and appreciate the encouragement I received, but <b>the words are entirely my own</b>.<br /><br />A lot has happened between January 2017 and April 2018, and I'll do my best to make sense of it all as we go.<pre><4</pre></p></div>
 
 <div class="notice--warning">
 <h4>Beware: Falling Serifs</h4>
@@ -61,7 +61,7 @@ Our goals and priorities in couple's therapy would quickly change, and for the n
 
 > She had help of course, so it’s a testament to all three of us, I suppose.
 
-The most difficult thing to realize was that *staying married to me was not an option anymore.* For years I had resisted getting better for whatever reason(s), and it had gotten to the point where she could no longer tolerate not being able to be the person she wants to be. She was trying to be my wife while also fighting against the ceaseless tide of my turbulant seas. She was living most of her life on eggshells for quite a while at that point; setting aside her own wants and needs to accommodate my own admittedly nebulous demands to *feel* a certain way. 
+The most difficult thing to realize was that *staying married to me was not an option anymore.* For years I had resisted getting better for whatever reason(s), and it had gotten to the point where she could no longer tolerate not being able to be the person she wants to be. She was trying to be my wife while also fighting against the ceaseless tide of my turbulent seas. She was living most of her life on eggshells for quite a while at that point; setting aside her own wants and needs to accommodate my own admittedly nebulous demands to *feel* a certain way. 
 
 <big>She resented the pressure I put on her to manage my emotions — *I had somehow successfully made her responsible for my feelings, and her attempts to free herself from this were thwarted by our existing well-regimented patterns of relating to each other.*</big>
 

@@ -195,6 +195,12 @@ Having finally arrived at *acceptance*, I was going to leave Philadelphia freshl
 
 ***I was right on time.*** And more importantly, *I was right on time* to cross paths with someone that would pour some of the gold that binds my pottery back together again. It's *kismet*. Destiny. She'd start at my heart and work her way outward from there, and she would do it without my direction, and with precision and ease. Those things I decided that I must never wish for again. Things that I felt like it must be *wrong* for me to want and even *worse* if I needed? They are the exact same things that come so easily to her. She is generous with me, and she is radiant, and her hair is unfair. Her name is Tracey. She effortlessly readily loves me in a way that is [*All I Ever Wanted*](http://ephemeral.be/albums/hearts/content/all-i-ever-wanted-love-sick/).
 
+<figure>
+    <a href="/assets/images/2018/april/2018-04-06-pottery-kintsugi.jpg" class="fancybox" rel="gallery">
+      <img src="/assets/images/2018/april/2018-04-06-pottery-kintsugi.jpg"></a>
+    <figcaption>More beautiful for having been broken. © emory lundberg, 2018</figcaption>
+</figure>
+
 # Getting Better
 
 My therapy is making inroads. I have some real [breakthrough moments](https://incumbent.org/post/therapy-methods-ifs/) that I've **never** experienced before. I am becoming more *self-lead*, as my therapist says. Like she predicted, my writing improves and more importantly, my photography improves. When I ask Mari about this at one point she tells me that she can see a change also, and she explains it is my best work, because it is much less self-aware and less technical. That I'm shooting from my gut. Finally. **Finally!** You might take tens of thousands of pictures, but sometimes you make a photograph.[^9]

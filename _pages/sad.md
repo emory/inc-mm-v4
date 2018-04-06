@@ -31,7 +31,7 @@ feature_row3:
   - image_path: /assets/images/kintsugi-wide-sm.jpg
     alt: "Kintsugi"
     title: "Chapter 3: No Thirteenth"
-    excerpt: "Shattered into a million pieces."
+    excerpt: "Shattered into a million pieces, and I'd do it again and again and again."
     url: /post/completely-mental-part-three/
     btn_label: "Be Shattered"
     btn_class: "btn--danger"
@@ -48,6 +48,7 @@ sidebar:
 
 {% include feature_row id="feature_row2" type="right" %}
 
+{% include feature_row id="feature_row3" type="leefet" %}
 
 # The Great? Depression
 

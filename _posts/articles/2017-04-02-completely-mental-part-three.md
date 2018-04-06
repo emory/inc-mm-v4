@@ -97,7 +97,14 @@ The software I use for handling all the various projects and tasks I am in the m
 
 For a **long** time, I had a project in OmniFocus called *The Marriage*. I added it *years* ago *(!)* and that project was where I shoved tasks and notes to Husband Me about conversations to have, or things related to improving our marriage.
 
-My wife and I can both point to the same day two years ago before our youngest child was born that was probably where our marriage, *as we knew it*, was unofficially over. I was relentlessly thrashing as I often did, craving a *feeling* and asking her for something she would **never** give me. We were right on the verge of another break-down and I had a moment where I felt like my marriage wasn't the only thing in jeopardy. I back-peddled entirely to end the conversation before it took the next logical step. I was mere moments away from ending it all in desperation, but instead I walked it back, resolved to find a way to get what I needed another way, and we began *treading water*. 
+My wife and I can both point to the same day two years ago before our youngest
+child was born that was probably where our marriage, *as we knew it*, was
+unofficially over. I was relentlessly thrashing as I often did, craving a
+*feeling* and asking her for something she would **never** give me. We were
+right on the verge of another break-down and I had a moment where I felt like my
+marriage wasn't the only thing in jeopardy. I was mere moments away from
+ending everything in desperation, but instead I walked it back, and resolved to find a way to
+get what I needed another way, and we began *treading water*.
 
 <div class="notice--warning">I would never be able to find what I needed another way because I was looking in the wrong place entirely, but I couldn't recognize or accept that yet. It's a hard lesson to learn that some of the things you feel that you most desperately need are things that can only come from yourself.</div>
 

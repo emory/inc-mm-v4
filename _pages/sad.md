@@ -30,8 +30,8 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/kintsugi-wide-sm.jpg
     alt: "Kintsugi"
-    title: "Chapter 3: No Thirteenth"
-    excerpt: "Go on a fantastic voyage."
+    title: "Chapter 3: Forever in Thirteen"
+    excerpt: "We can't stop here. This is Bat Country."
     url: /post/completely-mental-part-three/
     btn_label: "Get Shattered"
     btn_class: "btn--danger"

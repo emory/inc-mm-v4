@@ -115,12 +115,16 @@ Over the last few years my wife has seen my condition deteriorating steadily. It
 
 ***Over the last two years I was often told that I'm miserable, but I didn't believe it until I saw it with my own eyes.*** I can't wait for things to "get back to normal" anymore, because that isn't even on the table. "Normal" is not even remotely acceptable. To make this even more terrifying and dangerous, suddenly *everything becomes much, much worse.*
 
+---
+
+Part Three is tentatively titled [Forever in
+Thirteen](https://incumbent.org/post/completely-mental-part-three/), and it is a
+doozy.
+
 <div class="notice--warning">
 <h4>Part Two</h4>
 <p>This is part two of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a>.</p>
 </div>
-
-Part Three is tentatively titled [No Thirteenth](https://incumbent.org/post/completely-mental-part-three/), and it is a doozy.
 
 [^xanax]: Alprazolam, 0.25mg
 [^zoloft]: Sertraline, 50mg

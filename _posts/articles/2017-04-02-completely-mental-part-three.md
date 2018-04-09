@@ -76,6 +76,9 @@ From the start, Liz told me she had this vision of a *Collaborative Divorce*, wh
 
 Regardless, at any rate, I wasn't too worried about being a co-anything with Liz at the time.
 
+<blockquote><big>"And I could make you rue the day, But I could never make you stay"</big>
+<a href="https://genius.com/The-magnetic-fields-all-my-little-words-lyrics">All My Little Words</a></blockquote>
+
 Until I could arrive at *Scenic Collaborative Island*, I adopted a posture of leaving myself wide open. I set myself up for disappointment and suffered more than a few indignities. I didn't take the well-intentioned advice I may receive of family and friends to retain counsel and do everything I could to protect myself from this assault on my sanity and extract my wife from my life like a surgeon. I had my moments of being angry and wanting to fight, but they were always short-lived. Liz easily disarms me by being herself. It's impossible for me to stay angry at her even if I wanted to. She's not hurtful, spiteful, and while there were times I found her cruel, I also know that she has never done anything in her entire life to *be* cruel.
 
 I was an utter mess to her, I'm sure, but I had to do it this way and let myself feel a little pummeled now and then because the alternative was going to make it even worse. At the time, I didn't know how I could navigate this any other way. It wouldn't be until a couple of months later that I'd finally turn the corner on any of it. I was afraid that if I didn't keep myself off-balance in some way that I'd naturally start to fortify and begin making it impossible for us have anything that either of us wanted. I really don't know if I could have overcome her ability to diffuse my anger so easily, or if I could have insulated myself and not made things worse.
@@ -173,12 +176,14 @@ There may have been several epiphanies that day. Among them, I came to terms wit
 
 ---
 
+> Part Four is titled [Kintsugi](https://incumbent.org/post/completely-mental-part-four/), and it's
+about being more beatiful for having been broken.
+
 <div class="notice--warning">
 <h4>Part Three</h4>
 <p>This is part three of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a>.</p>
 </div>
 
----
 [^1]: There was an especially shitty aspect of this that I don't really want to rehash because I think it was really shady. I flag this because it was one of a few aspects of this span of time that could have been handled *much* better because it lead to a little bit of gas-lighting in my opinion and I say that as someone that grew up with a Category Five gas-lighter. Really, I'm over it. I think I'm over it? I’m over it.
 
 [^2]: We have a knowledge of each other that didn't always use for the right reasons.

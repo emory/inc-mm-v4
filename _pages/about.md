@@ -90,7 +90,6 @@ That was a little long-winded. So I'll move on the parts you care about:
 
 My public [<span class="fa fa-lock"></span> certificate](https://pki.kvet.ch/ca/certificates/eyrie_Emory.crt) is available for your importing. You may trust it however you see fit. If you want to, you can also import and/or trust [<span class="fa fa-lock"></span> my household's Certificate Authority](https://pki.kvet.ch/ca/certificates/eyrie_Root.crt) by fetching and importing the KVETCH Complaint Department CA certificate. I also have an [Intermediate CA Certificate](https://pki.kvet.ch/ca/certificates/eyrie_Intermediate.crt) for you that will sign device, service, and end-user certificates. Ask me if you want to send me a CSR or otherwise create a more formal crypto relationship. Read more about the [Eyrie CA](https://pki.kvet.ch/) if you're interested in my household PKI.
 
-
 <img src="/assets/images/comeatmebro.jpg" class="img-rounded">
 
 [^1]: Just because I'm O.G. doesn't mean that you must feel the need to recognize.

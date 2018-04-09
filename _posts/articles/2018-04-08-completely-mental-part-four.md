@@ -23,6 +23,8 @@ featured: true
 <h4>Beware: Falling Serifs</h4>
 <p>I split part three into two posts, because it was too long.</p><p>This is part <b>four</b> of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a>. It will likely receive some further enhancements for clarity or continuity, much like the previous installments have. <b>This is iterative writing</b>, and if you need previous versions, it's all available in the <code>git</code> repository in the footer of each page.</p></div>
 
+{% include toc %}
+
 # Mercifully Shattered
 
 Finally, I was calm, and at peace. I had been shattered. Shattered into a million pieces; and it was the most terrible thing that ever happened to me, but it was also the best thing that ever happened to me.
@@ -139,12 +141,13 @@ I am **never** going back.
 
 ---
 
+> In Part 5, I'm not sure where I'll pick up, but it'll probably be about family
+> or imposter syndrome. 
+
 <div class="notice--warning">
 <h4>Part Four</h4>
 <p>This is part four of an ongoing series I'm calling <a href="https://incumbent.org/sad/">I've Been Sad</a>.</p>
 </div>
-
----
 
 [^7]: This is somewhat paradoxical — I actually have a habit of head-first falling in love fast,  and **hard**; as deep as I can go. I think it felt so different because of just how much it hurt to be wounded so savagely, maybe just because the duration of our relationship is such that I can measure a significant portion of my life, including my career, by it.
 [^8]: [Wikipedia: Kintsugi](https://en.wikipedia.org/wiki/Kintsugi) (金継ぎ, きんつぎ, "golden joinery"), also known as Kintsukuroi (金繕い, きんつくろい, "golden repair"), is the Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold, silver, or platinum, a method similar to the maki-e technique. As a philosophy, it treats breakage and repair as part of the history of an object, rather than something to disguise.

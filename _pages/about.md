@@ -11,7 +11,7 @@ My name is Emory, but I tell Siri that she can call me *big papa*.
 
 ## Brief Bio 
 
-I'm a network security *friengineer* by trade; also a serial hobbyiest, writer, photographer, practicing min-maxer, and a category-five wisenheimer. 
+I'm a network security *friengineer* by trade; also a serial hobbyiest, writer, photographer, practicing min-maxer, and a category-five wisenheimer.
 
 I am often carrying a camera and have no indoor voice. 
 
@@ -39,11 +39,9 @@ You may also find me on [flickr](http://flickr.com/photos/sempai), but I general
 
 I'm also working on a few photography projects that I'm likely forever [casting](/casting). One of them is about the workflows of creative people; what they do and how they get it done. Their creative process will never be the same as anyone else, and I'm interested in that sort of thing.
 
-I am also, of course, thinking about writing a script with my wife for a television pilot. It's about us, but maybe a more glamorous us. 
-
 **Professionally** in my new (as of November 2017) role as Auth0's Principal Security Engineer, I'm working on cloud security architectures, operations management in a dev-ops environment, and generally approaching decades of old already-solved problems again, with new and very different constraints. Incident response and forensics are very different concepts these days!
 
-I am also tinkering in the lab with location services, mobile applications, accessible encryption, and personal publishing. I have the dubious distinction of being listed as an inventor on a patent for an authenticated content syndication system that was gently paired with RSS/atom and OpenID. 
+I am also tinkering in the lab with location services, mobile applications, accessible encryption, and personal publishing. I have the dubious distinction of being listed as an inventor on a patent for an authenticated content syndication system that was gently paired with RSS/atom and OpenID.
 
 I did the technical review for a few O'Reilly books on OS X and smartphones, and wrote half of one myself that was never released but still lives on Amazon's Canadian site for some reason. 
 
@@ -95,5 +93,4 @@ My public [<span class="fa fa-lock"></span> certificate](https://pki.kvet.ch/ca/
 
 <img src="/assets/images/comeatmebro.jpg" class="img-rounded">
 
-[^1]:	Just because I'm O.G. doesn't mean that you must feel the need to recognize. 
-
+[^1]: Just because I'm O.G. doesn't mean that you must feel the need to recognize.

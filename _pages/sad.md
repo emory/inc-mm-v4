@@ -31,9 +31,17 @@ feature_row3:
   - image_path: /assets/images/kintsugi-wide-sm.jpg
     alt: "Kintsugi"
     title: "Chapter 3: No Thirteenth"
-    excerpt: "Shattered into a million pieces, and I'd do it again and again and again."
+    excerpt: "Go on a fantastic voyage."
     url: /post/completely-mental-part-three/
-    btn_label: "Be Shattered"
+    btn_label: "Get Shattered"
+    btn_class: "btn--danger"
+feature_row4:
+  - image_path: /assets/images/2018-pottery-kintsug-sm-teaser.jpg
+    alt: "Kintsugi"
+    title: "Chapter 4: Kintsugi"
+    excerpt: "Shattered into a million pieces, and I'd do it again and again and again."
+    url: /post/completely-mental-part-four/
+    btn_label: "Get Mended"
     btn_class: "btn--danger"
 # draft: {% include feature_row id="feature_row3" type="left" %}
 #feature_row3:
@@ -49,6 +57,8 @@ sidebar:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
 
 # The Great? Depression
 

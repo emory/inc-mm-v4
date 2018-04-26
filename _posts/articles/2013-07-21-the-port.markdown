@@ -3,7 +3,7 @@ layout: single
 status: publish
 title: The Port
 date: 2013-07-21
-last_modified_at: "2017-07-01 18:41:14"
+last_modified_at: 2018-04-16 15:20
 excerpt: "In which I open a bottle of port as old as I am."
 categories:
 - articles
@@ -22,13 +22,13 @@ When I look back at my career I've worked on some exceptional teams with some ex
 
 ## Working with Bob
 
-Bob not only has a wealth of knowledge and experience in a wide variety of topics; he's an exceptionally gifted mentor and communicator that always been very generous with his time. He's just naturally great at relating to me and honestly I don't know it's always that effortless for him or if he's **just that Good at Me**, but each time I talk to the man I feel like I've learned something and I feel inspired to *Do Something With It*. No small feat! 
+Bob not only has a wealth of knowledge and experience in a wide variety of topics; he's an exceptionally gifted mentor and communicator that always been very generous with his time. He's just naturally great at relating to me and honestly I don't know it's always that effortless for him or if he's **just that Good at Me**, but each time I talk to the man I feel like I've learned something and I feel inspired to *Do Something With It*. No small feat!
 
 I worked with Bob at Guardent building a managed security services offering that was later acquired by VeriSign. The few years I worked with him were among my favorites, and he's one of the few people that has successfully negotiated with Ma Bell and choreographed a *knife-switch* architecture move that involved three separate datacenters. The guy is pro.
 
 ## Bob May Know Something About Port
 
-One of the things he's known for is [a rather exceptional collection of port](http://magazine.wsj.com/hunter/great-vintage/call-of-port/). There was a Sunday my wife came into the house after running an errand and asked about him after hearing [a Bob Antia on NPR's The Splendid Table](https://soundcloud.com/thesplendidtable/bob-antia-on-collecting-port) to discuss that very topic; *surely that wasn't the same Bob Antia but how many could there be, right?*
+One of the things he's known for is [a rather exceptional collection of port](http://magazine.wsj.com/hunter/great-vintage/call-of-port/). There was a Sunday my wife[^exwife] came into the house after running an errand and asked about him after hearing [a Bob Antia on NPR's The Splendid Table](https://soundcloud.com/thesplendidtable/bob-antia-on-collecting-port) to discuss that very topic; *surely that wasn't the same Bob Antia but how many could there be, right?*
 
 When I emailed him to say she heard him the radio we traded some emails back and forth and I made a mental note of one offer in particular:
 
@@ -45,12 +45,12 @@ When another long-time friend invited us out to Boston for a June wedding, I fin
   <figcaption>Curbside Delivery</figcaption>
 </figure>
 
-	
+
 Bob soon rolled by with one of his kids riding shotgun and dropped off a bottle of Dow's 1977 vintage port, scolded me for tipping the bottle and drove off into the sunset leaving me with a bottle of port as old as I was. He says a common practice is to survey the people you're sharing a bottle with on which has aged better — I can say with certainty that I'm going with the bottle, but like he says, "there's always next year!"
 
-A couple of nights later my wife and I met up with my BFF Eric and his special lady Clare for dinner at a tapas restaurant in the South End, and I proudly presented the bottle to my friend; not sure when I'd ever get to taste it because I had been informed at length mere hours earlier by an expert in such things that there is some effort that goes into having a bottle of vintage port. You can't just open it up, put it in a paper bag and start sipping; it needs to be decanted for a few hours, and there is sediment in the bottle that needs to be removed (unless you want it in your glass). 
+A couple of nights later my wife and I met up with my BFF Eric and his special lady Clare for dinner at a tapas restaurant in the South End, and I proudly presented the bottle to my friend; not sure when I'd ever get to taste it because I had been informed at length mere hours earlier by an expert in such things that there is some effort that goes into having a bottle of vintage port. You can't just open it up, put it in a paper bag and start sipping; it needs to be decanted for a few hours, and there is sediment in the bottle that needs to be removed (unless you want it in your glass).
 
-My BFF is resourceful, and clearly very interested in drinking this bottle of port as soon as possible. The next day,  I started getting iMessage photos from Clare that featured their hotel room with a contraption that was, *obviously*, **the new decanter Eric bought at William Sonoma that afternoon.** We weren't sure about all the details yet, but we absolutely drove to the wedding with a decanter full of vintage port between Eric's feet.  
+My BFF is resourceful, and clearly very interested in drinking this bottle of port as soon as possible. The next day,  I started getting iMessage photos from Clare that featured their hotel room with a contraption that was, *obviously*, **the new decanter Eric bought at William Sonoma that afternoon.** We weren't sure about all the details yet, but we absolutely drove to the wedding with a decanter full of vintage port between Eric's feet.
 
 <figure class="third">
 <a href="/assets/images/p/port/port-cork-400x300.jpg"><img src="/assets/images/p/port/port-cork-400x300.jpg" alt="cork"></a>
@@ -58,12 +58,12 @@ My BFF is resourceful, and clearly very interested in drinking this bottle of po
 <a href="/assets/images/p/port/port-decant-400x300.jpg"><img src="/assets/images/p/port/port-decant-400x300.jpg" alt="up close decanter"></a>
 <figcaption>a delightful surprise!</figcaption>
 </figure>
-	
-	
+
+
 
 ## Lapping Luxury
 
-When we did eventually get to the port it was truly a wonderful experience; my wife said it reminded her of savoring a piece of chocolate and that was a fantastic observation. It was rich, luxurious, spicy and sweet all at once. A hint of licorice, berries, and herbs with the seductive deep plum-like red coloring, it has some weight to it while it's in your mouth. It almost seems to have an unexpected viscosity to it when you feel it on your tongue. 
+When we did eventually get to the port it was truly a wonderful experience; my wife said it reminded her of savoring a piece of chocolate and that was a fantastic observation. It was rich, luxurious, spicy and sweet all at once. A hint of licorice, berries, and herbs with the seductive deep plum-like red coloring, it has some weight to it while it's in your mouth. It almost seems to have an unexpected viscosity to it when you feel it on your tongue.
 
 I was driving us back to the city; so I didn't have more than a glass of it, but the experience of drinking it was a true thrill; ***an exceptional bottle shared with equally exceptional people that I love dearly***. I owe that moment to Bob and his generous heart, as much the friends I shared it with, and hope that I can get that tour through his cellar and continue to learn more about port and anything else he is kind enough to share with me.
 
@@ -72,3 +72,4 @@ I was driving us back to the city; so I didn't have more than a glass of it, but
 
 [^1]: I love learning about anything that has nuance and sophistication to it, which is probably a contributing factor to my love of single-malt scotch.
 [^excuses]: For what it's worth I also didn't bother to contact anyone in Boston until I got there and got settled in our apartment we rented for a week because I'm just that horrible!
+[^exwife]: No longer my wife, as of January 17, 2018.

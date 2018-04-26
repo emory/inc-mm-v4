@@ -1,7 +1,7 @@
 ---
 layout: single
 date: 2013-09-03
-last_modified_at: 2017-07-01
+last_modified_at: 2018-04-16 15:19
 title: "Our Family's Bamboula"
 excerpt: "Having a doula makes for much better birthing of babies."
 category: [articles, family]
@@ -13,7 +13,7 @@ header:
   creditlink: http://www.flickr.com/photos/joi
 ---
 
-I'm embarrassed because I intended to write this over a year ago *(this post was created on 2013-09-03)*, but it was very important to me that I properly convey the gratitude, respect and admiration of someone that my wife and I had on our team during the birth of our daughter.
+I'm embarrassed because I intended to write this over a year ago *(this post was created on 2013-09-03)*, but it was very important to me that I properly convey the gratitude, respect and admiration of someone that my wife[^exwife] and I had on our team during the birth of our daughter.
 
 # Doulas
 
@@ -92,3 +92,4 @@ She was exceptional at learning how Liz and I worked together, what we needed an
 [4]: http://www.icmindfulbirthing.com/ "Iowa City Mindful Birthing" 
 [5]: http://www.mapleseedbirth.com/about.html "all about Monica Basile"
 [6]: http://www.mapleseedbirth.com/ "Mapleseed Birth Services"
+[exwife]: No longer my wife, as of January 17, 2018.

@@ -4,7 +4,7 @@ permalink: /sad/
 category: depression
 title: &title "Fuck Depression"
 date: "2017-01-23"
-last_modified_at: "2017-07-19 11:08"
+last_modified_at: "2018-04-16 15:25"
 excerpt: "This is some bullshit and it's got to stop."
 header:
   image: /assets/images/keep-going-wall-acros.jpg
@@ -51,6 +51,8 @@ feature_row4:
 sidebar:
   nav: home
 ---
+
+An ongoing series in my crusade against depression. 
 
 {% include feature_row id="feature_row1" type="left" %}
 

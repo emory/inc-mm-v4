@@ -10,7 +10,7 @@ tags:
  - children
 category: [articles, rec, resources]
 date: 2018-12-23 09:33
-last_modified_at: 2018-12-25 15:28
+last_modified_at: 2018-12-25 15:55
 header:
   image: /assets/images/2018/dec/0ccam-flickr-little-free-lib-large.jpg
   teaser: /assets/images/2018/dec/0ccam-flickr-little-free-lib-240x240.jpg
@@ -24,17 +24,17 @@ It's a pretty simple game and I've got a 3 year-old and 6 year-old that I am per
 
 ## The Rules of Little Library
 
-The game has two stages, and the second stage is an optional way to break ties or otehrwise make it more competitive. 
+The game has two stages, and the second stage is an optional way to break ties or otherwise make it more competitive. 
 
 ### Stage 1
 
 As you are traveling around town, when you see a Little Library, players say "Little Library" and they are awarded one point. 
 
-You cannot get a point for a Little Library if the little library is behind the player. 
+You cannot get a point for a Little Library if the little library is behind you. Only if it is still ahead of you or when you're alongside the little library can you get a point. 
 
-You may say "Little Library!" as soon as you see a Little Library, but some more competive players like my daughter are quite fond of waiting until the last possible second to say "Little Library" if nobody else in the car has noticed it and called it out yet[^sneak]. 
+You may say "***Little Library!***" as soon as you see a Little Library, but some more competive players like my daughter are quite fond of waiting until the last possible second to say "Little Library" if nobody else in the car has noticed it and called it out yet[^sneak]. 
 
-Everyone can get a point for spotting a little library in State 1.
+Everyone can get a point for spotting a little library in Stage 1.
 
 ### Stage 2
 

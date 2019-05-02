@@ -6,8 +6,6 @@ main:
     url: /articles/
   - title: "Cool Kids"
     url: /coolkids/
-  - title: "Sad"
-    url: /sad/
   - title: "Castings"
     url: /casting/
   - title: "Contact"

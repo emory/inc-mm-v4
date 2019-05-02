@@ -3,9 +3,9 @@ layout: single
 title: "ENFP's correlation to Enneatype"
 excerpt: "The most common Enneatypes for ENFPs are Helper and Enthusiast."
 subtitle: "When Wikipedia has my number."
-category: [post, depression]
+category: [post]
 date: 2017-01-24
-tags: [depression, sad, personality, ennegram, enfp]
+tags: [personality, ennegram, enfp]
 header:
   image: /assets/images/enneagram-groups.png
   credit: Wikimedia
@@ -30,6 +30,5 @@ Of the two, *Helper* seems much more like me than *Enthusiast* even though I sha
 It's absolutely accurate. I also have an idea about that alleged *Innocence* virtue when I'm stressed. I have been especially wary of getting cozy with that *Challenger* aspect when I'm stressed without even knowing that's what I was doing. Be gone, *Challenger*. And now if you'll excuse me I'll be overusing my imagination while thinking about my sadness (because *Individualist*).
 
 ----
-This is one post of a collection I call [Fuck Depression aka I've Been Sad]({{ site.url }}/sad/).
 
 [^ENFP]:	[Extraversion, Intuition, Feeling, Perception](https://en.wikipedia.org/wiki/ENFP)

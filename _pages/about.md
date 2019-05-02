@@ -39,7 +39,7 @@ You may also find me on [flickr](http://flickr.com/photos/sempai), but I general
 
 I'm also working on a few photography projects that I'm likely forever [casting](/casting). One of them is about the workflows of creative people; what they do and how they get it done. Their creative process will never be the same as anyone else, and I'm interested in that sort of thing.
 
-**Professionally** in my new (as of November 2017) role as Auth0's Principal Security Engineer, I'm working on cloud security architectures, operations management in a dev-ops environment, and generally approaching decades of old already-solved problems again, with new and very different constraints. Incident response and forensics are very different concepts these days!
+**Professionally** I'm working on incident response, cloud security architectures, and operations management in a dev-ops environment, and generally approaching decades of old already-solved problems again, with new and very different constraints. Incident response and forensics are very different concepts these days!
 
 I am also tinkering in the lab with location services, mobile applications, accessible encryption, and personal publishing. I have the dubious distinction of being listed as an inventor on a patent for an authenticated content syndication system that was gently paired with RSS/atom and OpenID.
 
@@ -67,7 +67,7 @@ Very well, 007. You're catching me a little off-guard right now because I've bee
 
 My public key [<span class="fa fa-lock"></span> 4096/7EEB0403](/files/7EEB0403.asc) is available direct from me, the keyservers you already use, but **most authoritatively** on [Keybase](http://keybase.io/emory).
 
-*Please note that I don't have a trustworthy way to view gnupg signatures or decrypt gnupg encrypted email when I'm not at my desk.*
+The only mobile email client that gives me a satisfactory way to handle GNUpg/openpgp is [Canary](https://canarymail.io) but at my desk I still use [MailMate](https://freron.com) because it does a lot of really amazing things to handle email but also supports S/MIME and GNUpg/openpgp so well.
 
 #### S/MIME
 

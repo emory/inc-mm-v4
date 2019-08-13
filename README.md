@@ -1,3 +1,7 @@
+# oh yeah duh
+
+I leave mm's README below, I'm using his jekyll theme for this site and have been for a while and I really don't have much to contribute to the README. anything I'm responsible for breaking will probably be logged in `worklog.md` or the todo list `todo.taskpaper`. ✌🏻
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)

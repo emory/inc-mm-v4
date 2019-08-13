@@ -71,6 +71,8 @@ GEM
       jekyll (~> 3.3)
     jekyll-gist (1.4.1)
       octokit (~> 4.2)
+    jekyll-include-cache (0.1.0)
+      jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
@@ -126,13 +128,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (~> 1.12)
+  bundler
   classifier-reborn
   jekyll-data
+  jekyll-include-cache
   jekyll-sitemap!
   minimal-mistakes-jekyll!
   rake (~> 10.0)
   s3_website
 
 BUNDLED WITH
-   1.14.6
+   1.17.2

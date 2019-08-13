@@ -3,7 +3,7 @@ layout: archive
 title: "now@emory"
 permalink: //now/index.html
 date: 2017-05-01
-last_modified_at: `2019-08-13 11:59`
+last_modified_at: '2019-08-13 11:59'
 excerpt: "WTH is Emory doing?"
 share: true
 sidebar:

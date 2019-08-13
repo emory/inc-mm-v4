@@ -4,4 +4,5 @@ gem 'jekyll-sitemap', github: 'jekyll/jekyll-sitemap'
 gem 's3_website'
 gem 'classifier-reborn'
 gem 'jekyll-data'
+gem 'jekyll-include-cache'
 gemspec

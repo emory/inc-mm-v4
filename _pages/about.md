@@ -13,9 +13,9 @@ My name is Emory, but I tell Siri that she can call me *big papa*.
 
 I'm a network security *friengineer* by trade; also a serial hobbyiest, writer, photographer, practicing min-maxer, and a category-five wisenheimer.
 
-I am often carrying a camera and have no indoor voice. 
+I am often carrying a camera and have no indoor voice.
 
-Going way back in time; I was the founder of hellyeah! networks. Most of this once proud society of slackers and hackers has been swallowed by the cloud, but we're still out there kicking it oldschool. [^1]
+Going way back in time; I was the founder of hellyeah! networks. Most of this once proud society of slackers and hackers has been swallowed by the cloud, but we're still out there kicking it. [^1]
 
 ## Outputs
 
@@ -29,9 +29,13 @@ With the Internet's own [Alan Joyce](http://thisisalan.com/) I sometimes co-host
 
 ## Socialism
 
-I sometimes dabble in <a href="https://plus.google.com/+EmoryL">Google+</a>, occasionally <a href="http://facebook.com/incumbent/">Facebook</a>, very rarely find my way to the [twitter machine](http://twitter.com/incumbent) because it's a head-wound waiting to happen `#headdesk`. I am interested in just about any social or messaging service and try them all at least once. I'm considering playing around with [Mastodon](https://joinmastodon.org/) now and then. Eventually we'll get something as useful as `finger` and `zephyr` after the billions of dollars in venture capital have failed to deliver us from terminals, right? 
+I sometimes (often) spam on <a href="http://facebook.com/incumbent/">Facebook</a>, very rarely find my way to the [twitter machine](http://twitter.com/incumbent) because it's a head-wound waiting to happen `#headdesk`. I am interested in just about any social or messaging service and try them all at least once. I'm considering playing around with [Mastodon](https://joinmastodon.org/) now and then. Eventually we'll get something as useful as `finger` and `zephyr` after the billions of dollars in venture capital have failed to deliver us from terminals, right? 
 
 You may also find me on [flickr](http://flickr.com/photos/sempai), but I generally treat it like a high-res [instagram](http://instagram.com/incumbent). Lately I've been keeping an eye on [VSCO Grid](http://ephemory.vsco.co/) and [oggl](http://oggl.me/emory/), too. I even have a page on [ello](http://ello.co/kvetch)!
+
+### Chat
+
+You can find me on hellyeah! Slack, or a few other haunts.
 
 ## Projects I'm Working On
 
@@ -47,7 +51,7 @@ I did the technical review for a few O'Reilly books on OS X and smartphones, and
 
 ## Work & Availability
 
-My consulting practice, [due\|vigilance](http://duevigilance.com/), is where you can learn more about my consulting services. At the time of this writing, I'm not taking clients for technical or security engagements, **I am, however, very *available* for script review** on creative projects for the web, paper, television and film. If you're working on a project that could benefit from some experise on the *seedy underbelly of the Internet*, please tell me all about it. I would love to give your project some extra authenticity without losing your audience in the process. I can make very complex things approachable by non-nerds, and yet relevant and accurate enough for even the most grizzly of neckbeards.
+My consulting practice, [due\|vigilance](http://duevigilance.com/), is where you can learn more about my consulting services. Summer of 2019 I am taking clients for technical or security engagements, **I am especially very *available* for script review** on creative projects for the web, paper, television and film. If you're working on a project that could benefit from some experise on the *seedy underbelly of the Internet*, please tell me all about it. I would love to give your project some extra authenticity without losing your audience in the process. I can make very complex things approachable by non-nerds, and yet relevant and accurate enough for even the most grizzly of neckbeards.
 
 ## Contact
 
@@ -65,13 +69,13 @@ Very well, 007. You're catching me a little off-guard right now because I've bee
 
 #### OpenPGP, GNUpg, PGP
 
-My public key [<span class="fa fa-lock"></span> 4096/7EEB0403](/files/7EEB0403.asc) is available direct from me, the keyservers you already use, but **most authoritatively** on [Keybase](http://keybase.io/emory).
+My latest (as of 2017-12-22) public key [<span class="fa fa-lock"></span> 4096/5673CB70](/files/5673CB70.asc) is available direct from me, the keyservers you already use, but **most authoritatively** on [Keybase](http://keybase.io/emory).
 
 The only mobile email client that gives me a satisfactory way to handle GNUpg/openpgp is [Canary](https://canarymail.io) but at my desk I still use [MailMate](https://freron.com) because it does a lot of really amazing things to handle email but also supports S/MIME and GNUpg/openpgp so well.
 
 #### S/MIME
 
-Since iOS supports S/MIME natively, I prefer dealing with that. 
+Since iOS supports S/MIME natively, I prefer using that, in spite of bugs in Apple's implementation (Mail.app has a hard time with SubjectAlternateNames in X.509)
 
 # How I really feel about the Certificate Authorities
 
@@ -88,7 +92,7 @@ So lately I've been thinking that I'll just self-assure S/MIME like I do my gnup
 
 That was a little long-winded. So I'll move on the parts you care about:
 
-My public [<span class="fa fa-lock"></span> certificate](https://pki.kvet.ch/ca/certificates/eyrie_Emory.crt) is available for your importing. You may trust it however you see fit. If you want to, you can also import and/or trust [<span class="fa fa-lock"></span> my household's Certificate Authority](https://pki.kvet.ch/ca/certificates/eyrie_Root.crt) by fetching and importing the KVETCH Complaint Department CA certificate. I also have an [Intermediate CA Certificate](https://pki.kvet.ch/ca/certificates/eyrie_Intermediate.crt) for you that will sign device, service, and end-user certificates. Ask me if you want to send me a CSR or otherwise create a more formal crypto relationship. Read more about the [Eyrie CA](https://pki.kvet.ch/) if you're interested in my household PKI.
+My public [<span class="fa fa-lock"></span> certificate](files/EmoryLundberg.cer) is available for your importing. You may trust it however you see fit. If you want to, you can also import and/or trust [<span class="fa fa-lock"></span> my household's Root Certificate Authority](https://pki.kvet.ch/ca/certificates/eyrie_Root.crt) by fetching and importing the KVETCH Complaint Department CA certificate. I also have an [Intermediate CA Certificate](https://pki.kvet.ch/ca/certificates/eyrie_Intermediate.crt) for you that will sign device, service, and end-user certificates. Ask me if you want to send me a CSR or otherwise create a more formal crypto relationship. Read more about the [Eyrie CA](https://pki.kvet.ch/) if you're interested in my household PKI. I added another intermediate for my new homenet (`estuary`) as opposed to the old one (`eyrie`) and I have to tidy that up still. Regardless, if you get an email from me, it was probably signed with something, and you can decide what you want to do with it, but my certificate has undergone more scrutiny than a free one from Comodo even if it was done myself. Maybe I should set up distributed hellyeah! certificate authority that can issue certs signed by myself or one of the other slackers, I'll bring it up on Slack.
 
 <img src="/assets/images/comeatmebro.jpg" class="img-rounded">
 

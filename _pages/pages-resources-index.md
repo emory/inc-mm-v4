@@ -6,7 +6,7 @@ permalink: /pages/index.html
 title: Resources and Pages
 excerpt: "Papers, business papers."
 date: '2013-05-13 15:25:00'
-modified: '2016-07-14 08:56:00'
+modified: '2019-08-13 08:56:00'
 feature:
   visible: true
   headline: "Non-article pages, guides, and lists."

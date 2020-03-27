@@ -1,9 +1,29 @@
-.gitignore
-.folio
+# Vim
+*~
+*.sw[p_]
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+vendor/bundle
+
+# Node.js and NPM
 node_modules
-.sass-cache
-s3_website.yml
-_site
+npm-debug.log*
+package-lock.json
+codekit-config.json
+
+# macOS
 .DS_Store
-_config.yml 2019-08-13
-assets~HEAD
+
+# Jekyll generated files
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site

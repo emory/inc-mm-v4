@@ -15,7 +15,6 @@ header:
 author_profile: true
 ---
 
-{% include base_path %}
 {% include feature_row %}
 {% for post in site.categories.articles %}
   {% include archive-single.html %}

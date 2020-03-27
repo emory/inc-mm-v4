@@ -19,7 +19,7 @@ sidebar:
 
 # Current Projects 
 
-These are some creative projects I'm working on that I am very interested in finding subjects for. If you wish to contact me about any of them, please contact me using one of the methods outlined on [my 'about' page](/about/) or by [filling out this form](https://incumbent.org/contact/). 
+These are some creative projects I'm working on that I am very interested in finding subjects for. If you wish to contact me about any of them, please contact me using one of the methods outlined on [my 'about' page](/about/). 
 
 *C'mon, don't be shy, you're awesome!*
 

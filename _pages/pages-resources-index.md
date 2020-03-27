@@ -20,7 +20,6 @@ Pages upon pages. These are more like *documents*, structured lists[^un], or scr
 
 [^un]: Or completely un-structured lists. Six of one, and all.
 
-{% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
 {% for post in site.category.pages %}

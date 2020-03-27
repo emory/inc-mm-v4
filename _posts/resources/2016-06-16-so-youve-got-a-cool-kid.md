@@ -20,7 +20,7 @@ author_profile: true
 
 <div class="notice--warning">
 <h4>Beware: Falling Serifs</h4>
-<p><i>This is incomplete but I wanted to get a draft out there to apply pressure on myself to have it not be incomplete. If this leaves you in a lurch, ping me on my <a href="/contact">contact form</a>, and I'll try to help you out.</i></p>
+<p><i>This is incomplete but I wanted to get a draft out there to apply pressure on myself to have it not be incomplete. If this leaves you in a lurch, email me (on your left), and I'll try to help you out.</i></p>
 <p><i>What follows is an <b>in-progress</b> field guide for parents that have their newborn undergoing hypothermia treatment due to an HIE or related event.</i></p>
 </div>
 

@@ -5,6 +5,23 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+<<<<<<< HEAD
+minimal_mistakes_skin    : "dirt" # "deafult", "air", "contrast", "dark", "dirt", "mint", "sunrise"
+
+# Site Settings
+theme                    : "minimal-mistakes-jekyll"
+locale                   : "en"
+title                    : "incumbent"
+title_separator          : "⚯"
+name                     : "Emory Lundberg"
+description              : "Essentially Emory"
+url                      : "https://incumbent.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : true # true, false (default)
+host                     : localhost
+=======
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -12,25 +29,26 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "the incumbent"
-title_separator          : "⌘"
+title                    : "Site Title"
+title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Emory Lundberg"
-description              : "Essentially Emory"
-url                      : "https://incumbent.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "emory/inc-mm-v4" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+# breadcrumbs            : false # true, false (default)
+>>>>>>> 43b5e5f2ef115f3467fd4fa7256ca38953d5e993
 words_per_minute         : 200
 comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,14 +61,36 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment by {fields.name}"
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : feed.xml # blank (default) uses feed.xml @emory does an s3 redirect
+<<<<<<< HEAD
+  path                   : /atom.xml # blank (default) uses feed.xml
+
+# SEO Related
+google_site_verification :
+bing_site_verification   : 7E018432D3498C29669726D9AB77C164
+alexa_site_verification  :
+=======
+  path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -63,14 +103,15 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : mAaIB44S1kbBQSpCjKVukZ1ctxApqfJmE5EWfZ1wZhA
-bing_site_verification   : 7E018432D3498C29669726D9AB77C164
+google_site_verification :
+bing_site_verification   :
+>>>>>>> 43b5e5f2ef115f3467fd4fa7256ca38953d5e993
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : incumbent
+  username               :
 facebook:
   username               : incumbent
   app_id                 :
@@ -85,41 +126,73 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
+<<<<<<< HEAD
+    tracking_id          : UA-19313033-5
+=======
     tracking_id          :
     anonymize_ip         : # true, false (default)
+>>>>>>> 43b5e5f2ef115f3467fd4fa7256ca38953d5e993
 
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Emory Lundberg"
   avatar           : "/assets/images/bio-photo-sea-sm.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A Renaissance man eagerly awaiting the next Renaissance."
-  location         : "Iowa City & Philadelphia"
-  email            : "emory@hellyeah.com"
+  location         : "CID & PHL"
+  email            : # emory@hellyeah.com
+  uri              : # https://incumbent.org/ # https://incumbent.org
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : incumbent
+  foursquare       :
+  github           : emory
+  gitlab           :
+  google_plus      :
+  keybase          : emory
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          : #incumbent
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+=======
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:emory@hellyeah.com
-    - label: "homepage"
+      # url: mailto:your.name@email.com
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://incumbent.org/"
-    - label: "photography"
-      icon: "fas fa-fw fa-link"
-      url: "https://ephemeral.be/"
+      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/incumbent"
+      # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/incumbent"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/emory"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/incumbent"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -142,6 +215,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+>>>>>>> 43b5e5f2ef115f3467fd4fa7256ca38953d5e993
 
 
 # Reading Files
@@ -169,12 +243,13 @@ exclude:
   - log
   - node_modules
   - package.json
-  - package-lock.json
   - Rakefile
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - _tmp
+  - s3_website.yml # @emory
 keep_files:
   - .git
   - .svn
@@ -186,7 +261,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "⎀\n\n"
 incremental: false
 
 
@@ -205,15 +280,14 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /post/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
@@ -233,8 +307,7 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
-# lychee tag @emory still experimenting with serving images via lychee
-#
+# lychee tag @emory
 lychee:
   url: http://img01.incumbent.org
   album_title_tag: h2
@@ -248,34 +321,44 @@ lychee:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path>/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
     - categories
     - tags
   layouts:
-   category: archive-taxonomy
-   tag: archive-taxonomy
+    category: archive-taxonomy
+    tag: archive-taxonomy
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
 
 
 # HTML Compression
-# - https://jch.penibelst.de/
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
 
+# Collections
+collections:
+  poems:
+    output: true
+    permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
+  articles:
+    output: true
 
 # Defaults
 defaults:
@@ -286,7 +369,35 @@ defaults:
     values:
       layout: single
       author_profile: true
+      read_time: # true
+      comments: false # true
+      share: true
+      related: false
+  # _posts Articles
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: single
+      author_profile: true
       read_time: true
-      comments: # true
+      comments: false # true
       share: true
       related: true
+  # _poems
+  - scope:
+      path: ""
+      type: poems
+    values:
+      layout: single
+      share: false
+      related: false
+      author_profile: false
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      related: true
+      author_profile: true

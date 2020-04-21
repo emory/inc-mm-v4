@@ -10,7 +10,7 @@ tags:
  - productivity
 category: [articles, essay, resources]
 date: 2018-02-24
-last_modified_at: 2018-02-24 17:31
+last_modified_at: 2020-03-27 17:31
 header:
   image: /assets/images/2018/blablah.jpg
   teaser: /assets/images/2018/blah-wide-sm.jpg
@@ -29,7 +29,7 @@ Sorry for the delay on this. I think about email and that sort of thing quite a 
 Currently, almost all of my incoming email goes to one of three places:
 
 - emory@hellyeah.com » Google Apps/Gsuite (legacy free Apps account for myself + ~12 others)
-- emory.lundberg@auth0.com » Google Apps/Gsuite (work identity)
+- work email address » Office365 (work identity)
 
 ## MUAs
 

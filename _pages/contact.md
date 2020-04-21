@@ -11,3 +11,4 @@ Maybe you've got questions. You can try getting my attention [via Twitter](https
 
 I used to have a form here, but I mangled it and haven't been able to allocate time to fix it. Good thing my email address is all over the place!
 
+Oh, I'm actively playing with Mastodon, so sending a message to `@emory@soc.kvet.ch` will probably get my attention.

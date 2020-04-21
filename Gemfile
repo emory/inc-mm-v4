@@ -5,4 +5,5 @@ gem 's3_website'
 gem 'classifier-reborn'
 gem 'jekyll-data'
 gem 'jekyll-include-cache'
+gem 'jemoji'
 gemspec

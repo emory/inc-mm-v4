@@ -1,22 +1,20 @@
 GIT
-  remote: git://github.com/jekyll/jekyll-sitemap.git
-  revision: c3fca1fa6a87ad81d46c207123e226b8a542d08d
+  remote: https://github.com/jekyll/jekyll-sitemap.git
+  revision: 01d817851f70b7ade68ebb0321ce6219e8ac80bf
   specs:
-    jekyll-sitemap (1.3.1)
+    jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
 
 PATH
   remote: .
   specs:
-    minimal-mistakes-jekyll (4.16.5)
-      jekyll (~> 3.7)
-      jekyll-data (~> 1.0)
-      jekyll-feed (~> 0.10)
+    minimal-mistakes-jekyll (4.19.1)
+      jekyll (>= 3.7, < 5.0)
+      jekyll-feed (~> 0.1)
       jekyll-gist (~> 1.5)
       jekyll-include-cache (~> 0.1)
       jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.2)
-      jemoji (~> 0.10)
+      jekyll-sitemap (~> 1.3)
 
 GEM
   remote: https://rubygems.org/
@@ -112,7 +110,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
-    rake (10.5.0)
+    rake (13.0.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -146,9 +144,10 @@ DEPENDENCIES
   jekyll-data
   jekyll-include-cache
   jekyll-sitemap!
+  jemoji
   minimal-mistakes-jekyll!
-  rake (~> 10.0)
+  rake (>= 12.3.3)
   s3_website
 
 BUNDLED WITH
-   1.17.2
+   2.1.4

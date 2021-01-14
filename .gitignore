@@ -1,5 +1,7 @@
 .gitignore
 .folio
+.Ulysses-Group.plist
+.Ulysses-Settings.plist
 _site
 .sass-cache
 
